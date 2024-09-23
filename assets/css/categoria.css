@@ -1,0 +1,108 @@
+.fondo{
+    display: flex;
+    flex-direction: column;
+}
+.padre{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    /*margin-bottom: -280%;
+    margin-left: -23%;*/
+}
+
+.menu{
+    display: block;
+    width:100%;
+    height: 50px;
+    margin-top: 150px;
+    /*display: flex;*/
+}
+.hijo{
+    width: 200px;
+    border: solid black 2px;
+    text-align: center;
+    margin-left: 3%;
+    margin-bottom: 2%;
+    box-shadow: 15px 0px 15px #12121baf;
+}
+
+img{
+    width: 90%;
+    margin-top: 10%;
+}
+
+
+
+.cat{
+    margin-left: 2%;
+
+  
+    
+}
+
+
+.modal-header{
+    background-image: url(../multimedia/modal.jpg);
+}
+.modal-content{
+    background-image: url(../multimedia/modal4.jpg);
+}
+
+
+
+
+
+/*---------------------------*/
+
+
+header{
+    background-image:url(../multimedia/arriba.jpg);
+    position: fixed;
+   top: 0; left: 0; right: 0;
+   /*background:#c28c97 ;*/
+     padding: 1rem 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+   box-shadow: 0 .5rem 1rem black;
+}
+header .logo{
+    font-size: 3rem;
+    color: #0a0000;
+    font-weight: bolder;
+}
+header .logo span{
+    color:#7f4ca5;
+}
+header .nav a{
+    font-size: 2rem;
+    padding: 0 1.5rem;
+    color: #ab49cc;
+}
+header .nav a:hover{
+    color: #000000;
+}
+
+header .icons a{
+    font-size: 2.5rem;
+    color: black;
+    margin-left: 1.5rem;
+}
+
+header .icons a:hover{
+    color:var(--pink);
+}
+
+header #toggler{
+    display: none;
+}
+header .fa-bars{
+    font-size: 3rem;
+    color: #f17e65;
+    border-radius: 5rem;
+    padding:.5rem 1.5rem;
+    cursor: pointer;
+    border:.1rem solid rgb(221, 218, 228) ;
+}
+

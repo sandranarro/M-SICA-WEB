@@ -1,0 +1,27 @@
+
+.contenido{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+margin-top: 2%;
+
+}
+
+.contenido div{
+    width: 200px;
+    border: dashed rgb(49, 40, 40) 2px;
+    text-align: center ;
+    
+    margin-left: 3%;
+    margin-bottom: 2%;
+    box-shadow: 15px 0px 15px #272738af;
+    background-color: rgba(0, 0, 0, 0.205);
+
+}
+
+.contenido div img{
+    width: 100px;
+}
+.menucito{
+     margin-left: 3%;
+}

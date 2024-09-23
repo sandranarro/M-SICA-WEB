@@ -1,1798 +1,4051 @@
+
 [
-   {
-      "categoría": "Kpop",
-      "nombre": "BTS",
-      "imagen": "https://i.pinimg.com/originals/62/ce/04/62ce040d6616986e42c02c924511d19a.png",
-      "oyentes": 1741902,
-      "debut": "23 de junio de 2013",
-      "album": [
+    {
+       "categoría": "Kpop",
+       "nombre": "BTS",
+       "imagen": "https://i.pinimg.com/originals/62/ce/04/62ce040d6616986e42c02c924511d19a.png",
+       "oyentes": 17419020,
+       "debut": "23 de junio de 2013",
+       "album": [
+          {
+             "nombre": "2 Cool 4 Skool",
+             "fecha de lanzamiento": "12 de junio de 2013",
+             "link": "https://www.letras.com/bangtan-boys/discografia/-2-cool-4-skool-2013/",
+             "imagen": "https://http2.mlstatic.com/D_NQ_NP_645289-MLU72877206817_112023-O.webp",
+             "canciones": [
+                "Intro: 2 Cool 4 Skool",
+                "We Are Bulletproof Pt.2",
+                "Skit: Circle Room Talk",
+                "No More Dream",
+                "Hold Me Tight",
+                "I Like It",
+                "Too Much",
+                "Cool for the Summer",
+                "Interlude: What Do You Want?",
+                "I Like It (Part II)",
+                "Outro: 2 Cool 4 Skool"
+             ]
+          },
+          {
+             "nombre": "O!RUL8,2?",
+             "fecha de lanzamiento": "11 de septiembre de 2013",
+             "link": "https://www.letras.com/bangtan-boys/discografia/orul82-2013/",
+             "imagen": "https://static.wikia.nocookie.net/bangtan/images/4/49/Orul82_cover.jpg/revision/latest/scale-to-width-down/1200?cb=20170525224023&path-prefix=es",
+             "canciones": [
+                "Intro: O!RUL8,2?",
+                "We On",
+                "N.O",
+                "Catch Me",
+                "Skit: R U Happy Now?",
+                "Believe",
+                "진격의 방탄 (Attack on Bangtan)",
+                "Spine Breaker",
+                "Skit: Expectation vs. Reality",
+                "Run",
+                "Aftermath",
+                "Outro: O!RUL8,2?"
+             ]
+          },
+          {
+             "nombre": "Dark & Wild",
+             "fecha de lanzamiento": "19 de agosto de 2014",
+             "link": "https://www.letras.com/bangtan-boys/discografia/darkewild-2014/",
+             "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_013246/tienda_013246_70d6cd6d4efac7aa36cb1e4041d97cc080ef2c11_producto_large_90.png",
+             "canciones": [
+                "Intro: What Am I to You?",
+                "Danger",
+                "100℃",
+                "Fun Boyz",
+                "Skit: R U Happy Now?",
+                "Blanket Kick",
+                "24/7=Heaven",
+                "Can You Turn Off Your Phone?",
+                "Skit: Expectation vs. Reality",
+                "Cypher Pt.3: Killer",
+                "Outro: What Am I to You?"
+             ]
+          },
+          {
+             "nombre": "The Most Beautiful Moment in Life, Pt.1",
+             "fecha de lanzamiento": "29 de abril de 2015",
+             "link": "https://www.letras.com/bangtan-boys/discografia/the-most-beautiful-moment-in-life-part-1-2015/",
+             "imagen": "https://static.wikia.nocookie.net/bangtan/images/8/8d/HYYH1cover.jpg/revision/latest?cb=20170525224302&path-prefix=es",
+             "canciones": [
+                "Intro: The Most Beautiful Moment in Life",
+                "I Need U",
+                "Hold Me Tight",
+                "Skit: One Night in a Strange Town",
+                "Dope",
+                "Save Me",
+                "I Like It",
+                "Skit: Expectation vs. Reality",
+                "Love Is Not Over",
+                "Outro: Love Is Not Over"
+             ]
+          },
+          {
+             "nombre": "The Most Beautiful Moment in Life, Pt.2",
+             "fecha de lanzamiento": "30 de noviembre de 2015",
+             "link": "https://www.letras.com/bangtan-boys/discografia/bts-the-most-beautiful-moment-in-life-pt2-2015/",
+             "imagen": "https://static.wikia.nocookie.net/bangtan/images/e/ef/HYYH2_cover.jpg/revision/latest/scale-to-width-down/1200?cb=20170525224235&path-prefix=es",
+             "canciones": [
+                "Intro: The Most Beautiful Moment in Life",
+                "Run",
+                "Butterfly",
+                "Whalien 52",
+                "Be There",
+                "Silver Spoon",
+                "Skit: On Stage",
+                "House of Cards",
+                "Love Is Not Over",
+                "Outro: House of Cards"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Kpop",
+       "nombre": "BLACKPINK",
+       "imagen": "https://6.soompi.io/wp-content/uploads/image/cb733e78c1714a118dc470089c812648/dummy.png?s=900x600&e=t",
+       "oyentes": 1629300,
+       "debut": "8 de agosto de 2016",
+       "album": [
+          {
+             "nombre": "BLACKPINK in Your Area",
+             "fecha de lanzamiento": "1 de noviembre de 2018",
+             "link": "https://www.last.fm/es/music/BLACKPINK/BLACKPINK+IN+YOUR+AREA",
+             "imagen": "https://i.discogs.com/IPAh6vxpOxGNPajfzkJCne7uaNzOngAzIsaAViPsGRM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE4/MDUzLTE1ODc3MjMw/OTMtMzcwNS5wbmc.jpeg",
+             "canciones": [
+                "DDU-DU DDU-DU",
+                "Forever Young",
+                "Really",
+                "See U Later",
+                "STAY",
+                "WHISTLE",
+                "BOOMBAYAH",
+                "PLAYING WITH FIRE",
+                "AS IF IT'S YOUR LAST",
+                "LALISA"
+             ]
+          },
+          {
+             "nombre": "Kill This Love",
+             "fecha de lanzamiento": "4 de abril de 2019",
+             "link": "https://www.letras.com/blackpink/discografia/kill-this-love-2019/",
+             "imagen": "https://www.lahiguera.net/musicalia/artistas/blackpink/disco/9818/blackpink_kill_this_love-portada.jpg",
+             "canciones": [
+                "Kill This Love",
+                "Don't Know What To Do",
+                "Kick It",
+                "Hope Not",
+                "Ddu-Du Ddu-Du (Remix)",
+                "Kill This Love (Instrumental)"
+             ]
+          },
+          {
+             "nombre": "The Album",
+             "fecha de lanzamiento": "2 de octubre de 2020",
+             "link": "https://www.letras.com/blackpink/discografia/the-album-2020/",
+             "imagen": "https://www.repdiscosperu.com/cdn/shop/products/TheAlbum.png?v=1652662371",
+             "canciones": [
+                "How You Like That",
+                "Ice Cream",
+                "Pretty Savage",
+                "Bet You Wanna",
+                "Lovesick Girls",
+                "Crazy Over You",
+                "Love To Hate Me",
+                "You Never Know",
+                "Love To Hate Me (Acoustic)",
+                "Ice Cream (Instrumental)"
+             ]
+          },
+          {
+             "nombre": "Born Pink",
+             "fecha de lanzamiento": "16 de septiembre de 2022",
+             "link": "https://www.letras.com/blackpink/discografia/born-pink-2022/",
+             "imagen": "https://m.media-amazon.com/images/I/41IF1e95wrL.jpg",
+             "canciones": [
+                "Pink Venom",
+                "Shut Down",
+                "Typa Girl",
+                "Yeah Yeah Yeah",
+                "Hard To Love",
+                "The Happiest Girl",
+                "Tally",
+                "Ready For Love",
+                "Love To Hate Me (Extended)",
+                "Pink Venom (Acoustic)"
+             ]
+          },
+          {
+             "nombre": "Square Up",
+             "fecha de lanzamiento": "15 de junio de 2018",
+             "link": "https://www.letras.com/blackpink/discografia/square-up-2018/",
+             "imagen": "https://i.discogs.com/3yPhJOKX-gYr33kpMvTkVtoyY_OHInaTMo1BC-ycibw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ0/ODA3LTE1MzAxNDQ4/MDgtMzk4Ny5qcGVn.jpeg",
+             "canciones": [
+                "Square One",
+                "Playing With Fire",
+                "Stay",
+                "As If It's Your Last"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Kpop",
+       "nombre": "Stray Kids",
+       "imagen": "https://i.pinimg.com/736x/9f/b6/84/9fb684d3d5df069d32a6509e31fafcc8.jpg",
+       "oyentes": 1487360,
+       "debut": "25 de marzo de 2018",
+       "album": [
+          {
+             "nombre": "I Am NOT",
+             "fecha de lanzamiento": "25 de marzo de 2018",
+             "link": "https://www.letras.com/stray-kids/discografia/i-am-not-2018/",
+             "imagen": "https://i.scdn.co/image/ab67616d0000b2734ea1886301b2a0d6facf6daa",
+             "canciones": [
+                "I Am NOT",
+                "Noeasy",
+                "My Pace",
+                "Miroh",
+                "District 9",
+                "Hellevator",
+                "The View",
+                "Awaken",
+                "Killer",
+                "Grow Up"
+             ]
+          },
+          {
+             "nombre": "I Am WHO",
+             "fecha de lanzamiento": "5 de agosto de 2018",
+             "link": "https://www.letras.com/stray-kids/discografia/i-am-who-2018/",
+             "imagen": "https://m.media-amazon.com/images/I/51pNFlyavRL._UF1000,1000_QL80_.jpg",
+             "canciones": [
+                "I Am WHO",
+                "You",
+                "Miroh",
+                "District 9",
+                "Awaken",
+                "Hellevator",
+                "The View",
+                "Grow Up",
+                "Killer",
+                "Awaken (Stray Kids Remix)"
+             ]
+          },
+          {
+             "nombre": "I Am YOU",
+             "fecha de lanzamiento": "22 de octubre de 2018",
+             "link": "https://www.letras.com/stray-kids/discografia/i-am-you-2018/",
+             "imagen": "https://i.scdn.co/image/ab67616d0000b273c002532ce368e31a3cd2cb64",
+             "canciones": [
+                "I Am YOU",
+                "Double Knot",
+                "You",
+                "Hero's Journey",
+                "Astronaut",
+                "Star",
+                "A Stranger",
+                "Mixed Up",
+                "It's Not Love"
+             ]
+          },
+          {
+             "nombre": "Clé 1 : Miroh",
+             "fecha de lanzamiento": "25 de marzo de 2019",
+             "link": "https://www.letras.com/stray-kids/discografia/cle1-miroh-2019/",
+             "imagen": "https://i.scdn.co/image/ab67616d0000b273fad57c1d77537a8dbd6c2177",
+             "canciones": [
+                "Miroh",
+                "Victory Song",
+                "Question",
+                "Top",
+                "Insomnia",
+                "Revelation",
+                "Sick",
+                "Writers",
+                "Crown",
+                "Say Cheese"
+             ]
+          },
+          {
+             "nombre": "Clé 2 : Yellow Wood",
+             "fecha de lanzamiento": "19 de junio de 2019",
+             "link": "https://www.letras.com/stray-kids/discografia/cle2-yellow-wood-2019/",
+             "imagen": "https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd",
+             "canciones": [
+                "Yellow Wood",
+                "Mixtape",
+                "Beware",
+                "My Side",
+                "This Is Love",
+                "Hang",
+                "Exit",
+                "Terror",
+                "Fire",
+                "More"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Kpop",
+       "nombre": "TWICE",
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4%28TWICE%29_G%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EC%95%84%EC%8B%9C%EC%95%84_%EB%93%9C%EB%A6%BC_%EC%BD%98%EC%84%9C%ED%8A%B8_%288%29_%28cropped%29.jpg/375px-%ED%8A%B8%EC%99%80%EC%9D%B4%EC%8A%A4%28TWICE%29_G%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C_%EC%95%84%EC%8B%9C%EC%95%84_%EB%93%9C%EB%A6%BC_%EC%BD%98%EC%84%9C%ED%8A%B8_%288%29_%28cropped%29.jpg",
+       "oyentes": 2093840,
+       "debut": "20 de octubre de 2015",
+       "album": [
+          {
+             "nombre": "The Story Begins",
+             "fecha de lanzamiento": "20 de octubre de 2015",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/e/2/4/2/466991445810522.jpg",
+             "link": "https://www.letras.com/twice-k-pop/discografia/the-story-begins-1st-mini-album-2015/",
+             "canciones": [
+                "Like Ooh-Ahh",
+                "Do It Again",
+                "Going Crazy",
+                "Wake Me Up",
+                "U",
+                "Stop Stop It",
+                "Cheer Up",
+                "Precious Love",
+                "Kiss Lips",
+                "Woohoo",
+                "I’m Gonna Be A Star"
+             ]
+          },
+          {
+             "nombre": "Page Two",
+             "fecha de lanzamiento": "25 de abril de 2016",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/2/b/7/9/500661461870742.jpg",
+             "link": "https://www.letras.com/twice-k-pop/discografia/page-two-2016/",
+             "canciones": [
+                "Cheer Up",
+                "Precious Love",
+                "Kiss Lips",
+                "Woohoo",
+                "Im Gonna Be A Star",
+                "Page Two",
+                "Ding Dong",
+                "Not Alone",
+                "Bingo"
+             ]
+          },
+          {
+             "nombre": "Twicecoaster: Lane 1",
+             "fecha de lanzamiento": "24 de octubre de 2016",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/2/f/e/1/542841477483534.jpg",
+             "link": "https://www.letras.com/twice-k-pop/discografia/twicecoaster-lane-1-2016/",
+             "canciones": [
+                "TT",
+                "We Like It",
+                "Jelly Jelly",
+                "Falling In Love",
+                "One In A Million",
+                "Turtle Ship",
+                "The Day Before",
+                "Ponytail",
+                "Psycho"
+             ]
+          },
+          {
+             "nombre": "Twicecoaster: Lane 2",
+             "fecha de lanzamiento": "20 de febrero de 2017",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/a/b/8/d/565681487683609.jpg",
+             "link": "https://www.letras.com/twice-k-pop/discografia/twicecoaster-lane-2-2017/",
+             "canciones": [
+                "Knock Knock",
+                "Roly-Poly",
+                "Ponytail",
+                "Jelly Jelly",
+                "TT",
+                "Ding-Dong",
+                "One In A Million",
+                "We Like It",
+                "Falling In Love",
+                "The Day Before"
+             ]
+          },
+          {
+             "nombre": "Signal",
+             "fecha de lanzamiento": "15 de mayo de 2017",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/d/2/6/8/579971495541415.jpg",
+             "link": "https://www.letras.com/twice-k-pop/discografia/signal-2017/",
+             "canciones": [
+                "Signal",
+                "Three Strikes",
+                "Roly-Poly",
+                "Cheer Up",
+                "Precious Love",
+                "Wake Me Up",
+                "TT",
+                "Falling In Love",
+                "Im Gonna Be A Star",
+                "The Day Before"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Kpop",
+       "nombre": "TOMORROW X TOGETHER",
+       "oyentes": 1987654,
+       "imagen": "https://6.soompi.io/wp-content/uploads/image/TXT-3.jpg?s=900x600&e=t",
+       "debut": "4 de marzo de 2019",
+       "album": [
+          {
+             "nombre": "The Dream Chapter: STAR",
+             "fecha de lanzamiento": "4 de marzo de 2019",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/d/5/3/6/799611694541372.jpg",
+             "link": "https://www.letras.com/txt-tomorrow-x-together/discografia/the-dream-chapter-magic-2019/",
+             "canciones": [
+                "Blue Hour",
+                "Crown",
+                "Cat & Dog",
+                "Our Summer",
+                "Nap of a Star",
+                "Angel or Devil",
+                "Magic Island"
+             ]
+          },
+          {
+             "nombre": "The Dream Chapter: MAGIC",
+             "fecha de lanzamiento": "9 de octubre de 2019",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/d/5/3/6/799611694541372.jpg",
+             "link": "https://www.letras.com/txt-tomorrow-x-together/discografia/the-dream-chapter-magic-2019/",
+             "canciones": [
+                "Run Away",
+                "9 and Three Quarters (Run Away)",
+                "New Rules",
+                "Poppin' Star",
+                "Roller Coaster",
+                "Fairy of Shampoo",
+                "Magic Island",
+                "Dream Chapter: MAGIC"
+             ]
+          },
+          {
+             "nombre": "The Dream Chapter: ETERNITY",
+             "fecha de lanzamiento": "18 de mayo de 2020",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/a/7/8/3/900041591130248.jpg",
+             "link": "https://www.letras.com/txt-tomorrow-x-together/discografia/the-dream-chapter-eternity/",
+             "canciones": [
+                "0X1=LOVESONG (I Know I Love You) ft. Seori",
+                "Anti-Romantic",
+                "Magic Island",
+                "Crown",
+                "Blue Hour",
+                "Love Song",
+                "Fairy of Shampoo",
+                "Can't You See Me?"
+             ]
+          },
+          {
+             "nombre": "minisode1: Blue Hour",
+             "fecha de lanzamiento": "26 de octubre de 2020",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/b/9/2/0/981671694608980.jpg",
+             "link": "https://www.letras.com/txt-tomorrow-x-together/discografia/minisode1-blue-hour-2020/",
+             "canciones": [
+                "Blue Hour",
+                "Ghosting",
+                "Genius",
+                "Fairy of Shampoo",
+                "0X1=LOVESONG (I Know I Love You)",
+                "Love Song",
+                "Can't You See Me?"
+             ]
+          },
+          {
+             "nombre": "The Chaos Chapter: FREEZE",
+             "fecha de lanzamiento": "31 de mayo de 2021",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/1/5/2/a/1088741694541636.jpg",
+             "link": "https://www.letras.com/txt-tomorrow-x-together/discografia/the-chaos-chapter-freeze-2021/",
+             "canciones": [
+                "0X1=LOVESONG (I Know I Love You) ft. Seori",
+                "Frost",
+                "No Rules",
+                "MOA Diary",
+                "Rockin' Around the Clock",
+                "0X1=LOVESONG (I Know I Love You)",
+                "Anti-Romantic",
+                "Magic Island"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Reguetón",
+       "nombre": "Daddy Yankee",
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Daddy_Yankee_entrevista_2.png",
+       "oyentes": 12045678,
+       "debut": "29 de marzo de 1995",
+       "album": [
+          {
+             "nombre": "No Mercy",
+             "fecha de lanzamiento": "23 de julio de 2004",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/d/2/4/0/2172041711965871.jpg",
+             "link": "https://www.letras.com/daddy-yankee/discografia/no-mercy-1995/",
+             "canciones": [
+                "Intro",
+                "Noche de Travesura",
+                "Lo Que Pasó, Pasó",
+                "Sabor a Mar",
+                "Nalgas",
+                "Cásate Conmigo",
+                "Pura Sabrosura",
+                "Vuelve",
+                "Dejalo",
+                "Rompe"
+             ]
+          },
+          {
+             "nombre": "Barrio Fino",
+             "fecha de lanzamiento": "30 de junio de 2004",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/d/4/b/4/4219.jpg",
+             "link": "https://www.letras.com/daddy-yankee/discografia/barrio-fino-2004/",
+             "canciones": [
+                "Intro",
+                "Gasolina",
+                "Lo Que Pasó, Pasó",
+                "Nalgas",
+                "Sabor a Mar",
+                "Cásate Conmigo",
+                "Pura Sabrosura",
+                "Vuelve",
+                "Dejalo",
+                "Rompe",
+                "Ella Me Levantó"
+             ]
+          },
+          {
+             "nombre": "Talento de Barrio",
+             "fecha de lanzamiento": "29 de julio de 2008",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/3/8/6/8/430521430425265.jpg",
+             "link": "https://www.letras.com/daddy-yankee/discografia/talento-de-barrio-original-motion-picture-soundtrack-2008/",
+             "canciones": [
+                "Intro",
+                "Talento de Barrio",
+                "Ella Me Levantó",
+                "Lo Que Pasó, Pasó",
+                "Rompe",
+                "Sabor a Mar",
+                "Cásate Conmigo",
+                "Pura Sabrosura",
+                "Vuelve",
+                "Dejalo"
+             ]
+          },
+          {
+             "nombre": "Mundial",
+             "fecha de lanzamiento": "2 de noviembre de 2010",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/3/c/0/e/42171650986064.jpg",
+             "link": "https://www.letras.com/daddy-yankee/discografia/daddy-yankee-mundial-2010/",
+             "canciones": [
+                "Intro",
+                "Descontrol",
+                "La Despedida",
+                "Ven Conmigo",
+                "Vamo' a Beber",
+                "A Lo Loco",
+                "Héroe",
+                "Esto Es Lo Que Hay",
+                "No Te Vayas",
+                "Sola"
+             ]
+          },
+          {
+             "nombre": "Prestige",
+             "fecha de lanzamiento": "17 de septiembre de 2012",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/e/f/d/7/324791388666962.jpg",
+             "link": "https://www.letras.com/daddy-yankee/discografia/prestige-2012/",
+             "canciones": [
+                "Intro",
+                "Limbo",
+                "Duro",
+                "Siguelo",
+                "Pura Vida",
+                "El Hombre de Tu Vida",
+                "Bailando por Ahí",
+                "Machete",
+                "Una Vaina Loca",
+                "Vuelve"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Reguetón",
+       "nombre": "Bad Bunny",
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/800px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg",
+       "oyentes": 34567890,
+       "debut": "17 de noviembre de 2017",
+       "album": [
+          {
+             "nombre": "X 100PRE",
+             "fecha de lanzamiento": "24 de diciembre de 2018",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/b/8/e/1/683121546263113.jpg",
+             "link": "https://www.letras.com/bad-bunny/discografia/x-100pre-2018/",
+             "canciones": [
+                "Ahora Me Llama",
+                "200 MPH",
+                "Mía",
+                "Caro",
+                "Tenemos Que Hablar",
+                "Solo de Mí",
+                "¿Quién Tú Eres?",
+                "La Rompe Corazones",
+                "Cógelo Suave",
+                "La Noche de Anoche",
+                "Vete"
+             ]
+          },
+          {
+             "nombre": "YHLQMDLG",
+             "fecha de lanzamiento": "29 de febrero de 2020",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/2/9/d/0/856561583160795.jpg",
+             "link": "https://www.letras.com/bad-bunny/discografia/yhlqmdlg-2020/",
+             "canciones": [
+                "Vete",
+                "Si Veo a Tu Mamá",
+                "La Difícil",
+                "YHLQMDLG",
+                "Pero Ya No",
+                "Safaera",
+                "Solita",
+                "Que Pretendes",
+                "Ignorantes",
+                "Pa' Romperla",
+                "Puesto Pa' Ti",
+                "Bye Me Fui"
+             ]
+          },
+          {
+             "nombre": "El Último Tour Del Mundo",
+             "fecha de lanzamiento": "10 de diciembre de 2020",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/b/c/3/4/990211606472890.jpg",
+             "link": "https://www.letras.com/bad-bunny/discografia/el-ultimo-tour-del-mundo-2020/",
+             "canciones": [
+                "El Mundo Es Mio",
+                "Yo Perreo Sola",
+                "La Noche de Anoche",
+                "Malamente",
+                "A Tu Merced",
+                "Pa' Romperla",
+                "RITMO",
+                "Tú No Metes Cabra",
+                "El Abandono",
+                "La Canción",
+                "Te Muero"
+             ]
+          },
+          {
+             "nombre": "Un Verano Sin Ti",
+             "fecha de lanzamiento": "6 de mayo de 2022",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/5/6/f/a/01651790913.jpg",
+             "link": "https://www.letras.com/bad-bunny/discografia/un-verano-sin-ti-2022/",
+             "canciones": [
+                "Moscow Mule",
+                "Titi Me Preguntó",
+                "Un Peso",
+                "Después de la Playa",
+                "Efecto",
+                "Me Porto Bonito",
+                "Neverita",
+                "La Corriente",
+                "El Apagón",
+                "Party",
+                "Puesto Pa' Ti",
+                "Bye Me Fui"
+             ]
+          },
+          {
+             "nombre": "Nadie Sabe Lo Que Va a Pasar Mañana",
+             "fecha de lanzamiento": "28 de octubre de 2022",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/3/c/5/6/1988181697193986.jpg",
+             "link": "https://www.letras.com/bad-bunny/discografia/nadie-sabe-lo-que-va-a-pasar-ma-ana-2023/",
+             "canciones": [
+                "Un Verano Sin Ti",
+                "Pillar el Momento",
+                "Desde el Norte",
+                "El Antídoto",
+                "Lo Que Perdimos",
+                "La Pared",
+                "Que Lo Que",
+                "Santo",
+                "Donde Está Tu Amor",
+                "En Lo Oscuro",
+                "Volver"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Reguetón",
+       "nombre": "Don Omar",
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Don_Omar_-_The_Kingdom_%28Official_Q_%26_A%29.png/220px-Don_Omar_-_The_Kingdom_%28Official_Q_%26_A%29.png",
+       "oyentes": 2345678,
+       "debut": "2 de diciembre de 2003",
+       "album": [
+          {
+             "nombre": "The Last Don",
+             "fecha de lanzamiento": "2 de diciembre de 2003",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/b/e/5/d/323181387468906.jpg",
+             "link": "https://www.letras.com/don-omar/discografia/the-last-don-2003/",
+             "canciones": [
+                "Intro",
+                "Dile Que Tú Me Quieres",
+                "Pobre Diabla",
+                "Sálvame",
+                "Ahora Es",
+                "La Roca",
+                "Dile Que Tú Me Quieres",
+                "Los Bandoleros",
+                "Que Tengo Que Hacer",
+                "Pobre Diabla",
+                "Sálvame"
+             ]
+          },
+          {
+             "nombre": "King of Kings",
+             "fecha de lanzamiento": "18 de septiembre de 2006",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/c/c/1/4/430101430337451.jpg",
+             "link": "https://www.letras.com/don-omar/discografia/king-of-kings-2006/",
+             "canciones": [
+                "Intro",
+                "Súbeme la Radio",
+                "Danza Kuduro",
+                "Dile Que Tú Me Quieres",
+                "Danza Kuduro",
+                "Los Bandoleros",
+                "Baila Baila",
+                "Ahora Es",
+                "El Rey",
+                "Te Dejo Ir",
+                "Lo Que Pasó"
+             ]
+          },
+          {
+             "nombre": "iDon",
+             "fecha de lanzamiento": "2 de diciembre de 2009",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/1/c/f/c/1813511686135224.jpg",
+             "link": "https://www.letras.com/don-omar/discografia/idon-2009/",
+             "canciones": [
+                "Intro",
+                "Taboo",
+                "Danza Kuduro",
+                "Te Dejo Ir",
+                "Héroe",
+                "Casi Te Envidio",
+                "El Rey",
+                "Te Boté",
+                "Qué Tengo Que Hacer",
+                "Los Bandoleros",
+                "Vamos a Hacerlo"
+             ]
+          },
+          {
+             "nombre": "Meet the Orphans",
+             "fecha de lanzamiento": "16 de noviembre de 2010",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/7/4/e/1/1813521686135223.jpg",
+             "link": "https://www.letras.com/don-omar/discografia/don-omar-presents-meet-the-orphans-2010/",
+             "canciones": [
+                "Intro",
+                "Danza Kuduro",
+                "Hasta Que Salga el Sol",
+                "Perdóname",
+                "Déjame",
+                "Eres Tú",
+                "Dile Que Tú Me Quieres",
+                "Pobre Diabla",
+                "Sálvame",
+                "La Roca",
+                "Los Bandoleros"
+             ]
+          },
+          {
+             "nombre": "The Last Don 2",
+             "fecha de lanzamiento": "16 de febrero de 2015",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/3/7/1/c/1813531686135223.jpg",
+             "link": "https://www.letras.com/don-omar/discografia/the-last-don-ii-2015/",
+             "canciones": [
+                "Intro",
+                "No Apagues La Luz",
+                "Mírame",
+                "Soledad",
+                "Dale Don Dale",
+                "Es Un Secreto",
+                "Todo Es Un Sueño",
+                "Qué Tengo Que Hacer",
+                "Los Bandoleros",
+                "Déjame",
+                "Todo Es Un Sueño"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Reguetón",
+       "nombre": "Nicky Jam",
+       "imagen": "https://www.latingrammy.com/_next/image?url=https%3A%2F%2Fi8.amplience.net%2Fi%2Fnaras%2FMI0003901532-MN0000867980&w=3840&q=75",
+       "oyentes": 4567890,
+       "debut": "4 de junio de 1994",
+       "album": [
+          {
+             "nombre": "Haciendo Escante",
+             "fecha de lanzamiento": "6 de diciembre de 2004",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "La Combi",
+                "Por Ti",
+                "Haciendo Escante",
+                "En Lo Oscuro",
+                "Te Vuelvo a Ver",
+                "Casi Te Olvido",
+                "Mi Melodía",
+                "Contigo",
+                "Déjame Amarte"
+             ]
+          },
+          {
+             "nombre": "Fenix",
+             "fecha de lanzamiento": "20 de enero de 2015",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "El Perdón",
+                "Travesuras",
+                "Si Tú la Ves",
+                "El Amante",
+                "Juntos",
+                "Te Busco",
+                "Me Voy",
+                "Una Cita",
+                "Fénix"
+             ]
+          },
+          {
+             "nombre": "Los Cangris",
+             "fecha de lanzamiento": "19 de septiembre de 2016",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "Mi Gente",
+                "Una Vaina Loca",
+                "Parece",
+                "Que Va",
+                "Reggaetón",
+                "Te Sigo Amando",
+                "La Llamada",
+                "Si Tú Supieras",
+                "Dile Que Tú Me Quieres"
+             ]
+          },
+          {
+             "nombre": "Ñejo & Dálmata",
+             "fecha de lanzamiento": "9 de junio de 2017",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "Que Me Digan",
+                "Amor de Mi Vida",
+                "Bebé",
+                "Todo es Fácil",
+                "Esa Noche",
+                "No Te Vayas",
+                "Fuego",
+                "Héroe",
+                "Hasta el Fin"
+             ]
+          },
+          {
+             "nombre": "Greatest Hits",
+             "fecha de lanzamiento": "14 de diciembre de 2017",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "El Perdón",
+                "Travesuras",
+                "Juntos",
+                "Si Tú la Ves",
+                "El Amante",
+                "Me Voy",
+                "Una Cita",
+                "Te Busco",
+                "Fénix"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Reguetón",
+       "nombre": "Karol G",
+       "oyentes": 23456789,
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/c/cb/2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg",
+       "debut": "27 de octubre de 2017",
+       "album": [
+          {
+             "nombre": "Unstoppable",
+             "fecha de lanzamiento": "27 de octubre de 2017",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/5/2/1/1/609441693225519.jpg",
+             "link": "https://www.letras.com/karol-g/discografia/unstoppable-2017/",
+             "canciones": [
+                "Ahora Me Llama",
+                "Casi Nada",
+                "Dame",
+                "Casi Nada",
+                "Dando de Qué Hablar",
+                "Punto G",
+                "Mi Cama",
+                "El Anillo",
+                "Dile Que Tú Me Quieres",
+                "Lo Que Siento Por Ti"
+             ]
+          },
+          {
+             "nombre": "Ocean",
+             "fecha de lanzamiento": "3 de mayo de 2019",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/c/a/f/c/729411693225569.jpg",
+             "link": "https://www.letras.com/karol-g/discografia/ocean-2019/",
+             "canciones": [
+                "Ocean",
+                "Secreto",
+                "Punto G",
+                "A Ella",
+                "Dama y Vagabundo",
+                "Me Gusta",
+                "La Vida de la Fiesta",
+                "A Ella",
+                "Mi Cama",
+                "Dando de Qué Hablar"
+             ]
+          },
+          {
+             "nombre": "KG0516",
+             "fecha de lanzamiento": "25 de marzo de 2021",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/6/4/9/c/1051151693225594.jpg",
+             "link": "https://www.letras.com/karol-g/discografia/kg0516-2021/",
+             "canciones": [
+                "Provenza",
+                "Bichota",
+                "Ay Dios Mío",
+                "El Makinon",
+                "El Barco",
+                "Dices Que Te Vas",
+                "Don’t Be Shy (Remix)",
+                "Que Manera",
+                "Luna",
+                "La Loba"
+             ]
+          },
+          {
+             "nombre": "Bichota",
+             "fecha de lanzamiento": "18 de octubre de 2021",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/7/8/a/8/1076831693225844.jpg",
+             "link": "https://www.letras.com/karol-g/discografia/bichota-2020/",
+             "canciones": [
+                "Bichota",
+                "El Makinon",
+                "Que Manera",
+                "Dices Que Te Vas",
+                "Provenza",
+                "Don’t Be Shy (Remix)",
+                "Luna",
+                "La Loba",
+                "A Ella",
+                "Bichota (Remix)"
+             ]
+          },
+          {
+             "nombre": "Mañana Será Bonito",
+             "fecha de lanzamiento": "24 de febrero de 2023",
+             "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/0/e/c/9/1706651677242145.jpg",
+             "link": "https://www.letras.com/karol-g/discografia/ma-ana-sera-bonito-2023/",
+             "canciones": [
+                "TQG",
+                "Provenza",
+                "Punto G",
+                "Gato de Noche",
+                "El Makinon",
+                "No Me Conocen",
+                "Lo Que Siento Por Ti",
+                "Ya No Te Quiero",
+                "La Vida de la Fiesta",
+                "Dama y Vagabundo"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Salsa",
+       "nombre": "Marc Anthony",
+       "oyentes": 34567890,
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/6/66/Interview_with_Marc_Anthony_%28cropped%29.png",
+       "debut": "13 de febrero de 1993",
+       "album": [
+          {
+             "nombre": "Otra Nota",
+             "fecha de lanzamiento": "13 de febrero de 1993",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Todo a Su Hora",
+                "Palabras del Alma",
+                "Me Voy a Acostar",
+                "Hasta Que Te Conocí",
+                "Sigo Siendo Yo",
+                "Mala",
+                "No Te Vayas",
+                "Ven Devórame Otra Vez",
+                "Yo Sabía",
+                "Rata de Dos Patas"
+             ]
+          },
+          {
+             "nombre": "Todo a Su Hora",
+             "fecha de lanzamiento": "24 de mayo de 1995",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Todo a Su Hora",
+                "Te Conozco Bien",
+                "Que Precio Tiene el Cielo",
+                "Amor Nuevo",
+                "Y Hubo Alguien",
+                "He Tratado",
+                "Nadie Como Ella",
+                "Dejalo Todo",
+                "Tú Me Haces Falta",
+                "Vivir Lo Nuestro"
+             ]
+          },
+          {
+             "nombre": "Contra La Corriente",
+             "fecha de lanzamiento": "11 de junio de 1997",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "Vivir Lo Nuestro",
+                "Y Hubo Alguien",
+                "Te Conozco Bien",
+                "Nada Sin Ti",
+                "Si Te Vas",
+                "No Me Ames",
+                "Amor Nuevo",
+                "He Tratado",
+                "Todo a Su Hora"
+             ]
+          },
+          {
+             "nombre": "Marc Anthony",
+             "fecha de lanzamiento": "23 de septiembre de 1999",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "I Need to Know",
+                "You Sang to Me",
+                "Vivir Lo Nuestro",
+                "Let Me Take a Minute",
+                "Si Te Vas",
+                "He Tratado",
+                "Te Conozco Bien",
+                "Amor Nuevo",
+                "Nada Sin Ti"
+             ]
+          },
+          {
+             "nombre": "Mended",
+             "fecha de lanzamiento": "6 de abril de 2002",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "Ahora Quien",
+                "Y Como Es Él",
+                "Mended",
+                "Nunca Te Olvidaré",
+                "No Me Ames",
+                "Vivir Lo Nuestro",
+                "Todo a Su Hora",
+                "Si Te Vas",
+                "Amor Nuevo"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Salsa",
+       "nombre": "Celia Cruz",
+       "oyentes": 45678901,
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Celia_Cruz%2C_1957.jpg/330px-Celia_Cruz%2C_1957.jpg",
+       "debut": "1950",
+       "album": [
+          {
+             "nombre": "Celia Cruz y la Sonora Matancera",
+             "fecha de lanzamiento": "1957",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Bemba Colora",
+                "Burundanga",
+                "Que Le Den Candela",
+                "Sabor a Ti",
+                "El Cumbanchero",
+                "Rumberos de Ayer",
+                "El Yerbero",
+                "Juancito Alimaña",
+                "La Vida Es un Carnaval",
+                "Cumbia en Do Menor"
+             ]
+          },
+          {
+             "nombre": "Celia Cruz con la Sonora Matancera",
+             "fecha de lanzamiento": "1965",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Casi Te Envidio",
+                "Que Le Den Candela",
+                "La Vida Es un Carnaval",
+                "Sabor a Ti",
+                "El Cumbanchero",
+                "Rumberos de Ayer",
+                "Burundanga",
+                "El Yerbero",
+                "Cumbia en Do Menor",
+                "Juancito Alimaña"
+             ]
+          },
+          {
+             "nombre": "Celia Cruz en la Habana",
+             "fecha de lanzamiento": "1971",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Bemba Colora",
+                "La Vida Es un Carnaval",
+                "Sabor a Ti",
+                "Rumberos de Ayer",
+                "El Cumbanchero",
+                "El Yerbero",
+                "Burundanga",
+                "Cumbia en Do Menor",
+                "Que Le Den Candela",
+                "Juancito Alimaña"
+             ]
+          },
+          {
+             "nombre": "Tremendo Caché",
+             "fecha de lanzamiento": "1987",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Caché",
+                "La Vida Es un Carnaval",
+                "Burundanga",
+                "Bemba Colora",
+                "Sabor a Ti",
+                "El Cumbanchero",
+                "Rumberos de Ayer",
+                "Juancito Alimaña",
+                "El Yerbero",
+                "Cumbia en Do Menor"
+             ]
+          },
+          {
+             "nombre": "Salsa y Control",
+             "fecha de lanzamiento": "1992",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Salsa y Control",
+                "Rumberos de Ayer",
+                "La Vida Es un Carnaval",
+                "El Cumbanchero",
+                "Sabor a Ti",
+                "Burundanga",
+                "Cumbia en Do Menor",
+                "Juancito Alimaña",
+                "El Yerbero",
+                "Que Le Den Candela"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Salsa",
+       "nombre": "Ray Barretto",
+       "imagen":"https://prpop.org/wp-content/uploads/2020/10/ray_barretto_blue_note_archivo_fncp_hs.jpg",
+       "oyentes": 1234567,
+       "debut": "1962",
+       "album": [
+          {
+             "nombre": "El Ray Barretto",
+             "fecha de lanzamiento": "1962",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Calle Luna Calle Sol",
+                "El Watusi",
+                "Soul Drummers",
+                "Mi Guaguanco",
+                "Pachanga Para Ti",
+                "Que Bueno Baila Usted",
+                "El Cumbanchero",
+                "El Rumbero del Piano",
+                "Pana Pana",
+                "El Titán"
+             ]
+          },
+          {
+             "nombre": "Acid",
+             "fecha de lanzamiento": "1968",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Acid",
+                "El Rumbero del Piano",
+                "Calle Luna Calle Sol",
+                "El Watusi",
+                "Pachanga Para Ti",
+                "Mi Guaguanco",
+                "Que Bueno Baila Usted",
+                "El Titán",
+                "Pana Pana",
+                "Soul Drummers"
+             ]
+          },
+          {
+             "nombre": "Barretto",
+             "fecha de lanzamiento": "1971",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Barretto",
+                "El Cumbanchero",
+                "Mi Guaguanco",
+                "Que Bueno Baila Usted",
+                "Calle Luna Calle Sol",
+                "Pachanga Para Ti",
+                "El Watusi",
+                "El Titán",
+                "Pana Pana",
+                "Soul Drummers"
+             ]
+          },
+          {
+             "nombre": "Street Parade",
+             "fecha de lanzamiento": "1977",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Street Parade",
+                "Que Bueno Baila Usted",
+                "El Cumbanchero",
+                "Calle Luna Calle Sol",
+                "Pachanga Para Ti",
+                "Mi Guaguanco",
+                "El Rumbero del Piano",
+                "Pana Pana",
+                "El Titán",
+                "Soul Drummers"
+             ]
+          },
+          {
+             "nombre": "Indestructible",
+             "fecha de lanzamiento": "1979",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Indestructible",
+                "El Cumbanchero",
+                "Que Bueno Baila Usted",
+                "Calle Luna Calle Sol",
+                "Pachanga Para Ti",
+                "Mi Guaguanco",
+                "El Rumbero del Piano",
+                "Pana Pana",
+                "El Titán",
+                "Soul Drummers"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Salsa",
+       "nombre": "Jerry Rivera",
+       "oyentes": 67890123,
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/d/d3/Jerry_Rivera_en_Acceso_Total_%28cropped%29.jpg",
+       "debut": "1989",
+       "album": [
+          {
+             "nombre": "Jerry Rivera",
+             "fecha de lanzamiento": "1989",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "Casi Te Envidio",
+                "Mi Libreta",
+                "Te Conozco Bien",
+                "Que Manera de Quererte",
+                "Héroe de Amor",
+                "Dile Que Vuelvas",
+                "Lluvia",
+                "La Rumba Soy Yo"
+             ]
+          },
+          {
+             "nombre": "Combinación Perfecta",
+             "fecha de lanzamiento": "1992",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Combinación Perfecta",
+                "Nada de Nada",
+                "Que Hay de Malo",
+                "Mi Libreta",
+                "Que Manera de Quererte",
+                "Te Conozco Bien",
+                "Héroe de Amor",
+                "Dile Que Vuelvas",
+                "Lluvia",
+                "La Rumba Soy Yo"
+             ]
+          },
+          {
+             "nombre": "Cara de Niño",
+             "fecha de lanzamiento": "1994",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Cara de Niño",
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "Casi Te Envidio",
+                "Mi Libreta",
+                "Te Conozco Bien",
+                "Que Manera de Quererte",
+                "Héroe de Amor",
+                "Dile Que Vuelvas",
+                "La Rumba Soy Yo"
+             ]
+          },
+          {
+             "nombre": "Siete Poderes",
+             "fecha de lanzamiento": "1996",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Siete Poderes",
+                "Que Manera de Quererte",
+                "Mi Libreta",
+                "Te Conozco Bien",
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "Casi Te Envidio",
+                "Héroe de Amor",
+                "Dile Que Vuelvas",
+                "La Rumba Soy Yo"
+             ]
+          },
+          {
+             "nombre": "Entre El Bebop y La Salsa",
+             "fecha de lanzamiento": "1998",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Entre El Bebop y La Salsa",
+                "Te Conozco Bien",
+                "Que Manera de Quererte",
+                "Mi Libreta",
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "Casi Te Envidio",
+                "Héroe de Amor",
+                "Dile Que Vuelvas",
+                "La Rumba Soy Yo"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Salsa",
+       "nombre": "Frankie Ruiz",
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Frankie_Ruiz_%2880s_%26_90s%29.jpg/330px-Frankie_Ruiz_%2880s_%26_90s%29.jpg",
+       "oyentes": 98765432,
+       "debut": "1981",
+       "album": [
+          {
+             "nombre": "Kilo",
+             "fecha de lanzamiento": "1981",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Kilo",
+                "Casi Te Envidio",
+                "Que Manera de Quererte",
+                "Mi Libreta",
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "El Titán",
+                "Pana Pana",
+                "El Cumbanchero",
+                "La Rumba Soy Yo"
+             ]
+          },
+          {
+             "nombre": "Solista",
+             "fecha de lanzamiento": "1985",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Solista",
+                "Que Manera de Quererte",
+                "Mi Libreta",
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "El Titán",
+                "Pana Pana",
+                "El Cumbanchero",
+                "La Rumba Soy Yo",
+                "Casi Te Envidio"
+             ]
+          },
+          {
+             "nombre": "Brillante",
+             "fecha de lanzamiento": "1986",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Brillante",
+                "Que Manera de Quererte",
+                "Mi Libreta",
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "El Titán",
+                "Pana Pana",
+                "El Cumbanchero",
+                "La Rumba Soy Yo",
+                "Casi Te Envidio"
+             ]
+          },
+          {
+             "nombre": "Revolución",
+             "fecha de lanzamiento": "1988",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Revolución",
+                "Que Manera de Quererte",
+                "Mi Libreta",
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "El Titán",
+                "Pana Pana",
+                "El Cumbanchero",
+                "La Rumba Soy Yo",
+                "Casi Te Envidio"
+             ]
+          },
+          {
+             "nombre": "Voy a Pintar",
+             "fecha de lanzamiento": "1991",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Voy a Pintar",
+                "Que Manera de Quererte",
+                "Mi Libreta",
+                "Amores Extraños",
+                "Que Hay de Malo",
+                "El Titán",
+                "Pana Pana",
+                "El Cumbanchero",
+                "La Rumba Soy Yo",
+                "Casi Te Envidio"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Pop",
+       "nombre": "Ariana Grande",
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ariana_Grande_at_the_Met_Gala_2024_%281%29.jpg/330px-Ariana_Grande_at_the_Met_Gala_2024_%281%29.jpg",
+       "oyentes": 245678900,
+       "debut": "2013",
+       "album": [
+          {
+             "nombre": "My Everything",
+             "fecha de lanzamiento": "2014",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Intro",
+                "Problem (feat. Iggy Azalea)",
+                "One Last Time",
+                "Why Try",
+                "Break Your Heart Right Back (feat. Childish Gambino)",
+                "Best Mistake (feat. Big Sean)",
+                "Be My Baby (feat. Cashmere Cat)",
+                "Break Your Heart Right Back",
+                "Just a Little Bit of Your Heart",
+                "Love Me Harder (with The Weeknd)",
+                "A Little Bit of Your Heart",
+                "You Don't Know Me"
+             ]
+          },
+          {
+             "nombre": "Dangerous Woman",
+             "fecha de lanzamiento": "2016",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Moonlight",
+                "Dangerous Woman",
+                "Be Alright",
+                "Into You",
+                "Side to Side (feat. Nicki Minaj)",
+                "Let Me Love You (feat. Lil Wayne)",
+                "Greedy",
+                "Leave Me Lonely (feat. Macy Gray)",
+                "Everyday (feat. Future)",
+                "Sometimes",
+                "I Don't Care",
+                "Dangerous Woman"
+             ]
+          },
+          {
+             "nombre": "Sweetener",
+             "fecha de lanzamiento": "2018",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Raindrops (An Angel Cried)",
+                "Blazed (feat. Pharrell Williams)",
+                "The Light Is Coming (feat. Nicki Minaj)",
+                "R.E.M.",
+                "Sweetener",
+                "Successful",
+                "Everytime",
+                "Breathin",
+                "Goodnight n Go",
+                "Pete Davidson",
+                "Get Well Soon"
+             ]
+          },
+          {
+             "nombre": "Thank U, Next",
+             "fecha de lanzamiento": "2019",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Imagine",
+                "Needy",
+                "NASA",
+                "Bloodline",
+                "Bad Idea",
+                "Make Up",
+                "Ghostin'",
+                "In My Head",
+                "7 Rings",
+                "Thank U, Next",
+                "Break Up with Your Girlfriend, I'm Bored"
+             ]
+          },
+          {
+             "nombre": "Positions",
+             "fecha de lanzamiento": "2020",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Shut Up",
+                "34+35",
+                "Motive (feat. Doja Cat)",
+                "Just Like Magic",
+                "Off the Table (feat. The Weeknd)",
+                "Safety Net (feat. Ty Dolla Sign)",
+                "Hell No",
+                "Wild Side",
+                "Love Language",
+                "Bad to You",
+                "Why Try",
+                "Motive"
+             ]
+          }
+       ]
+    },
+    {
+       "categoría": "Pop",
+       "nombre": "Lady Gaga",
+       "oyentes": 123456789,
+       "imagen":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped%29.jpg/330px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped%29.jpg",
+       "debut": "2008",
+       "album": [
+          {
+             "nombre": "The Fame",
+             "fecha de lanzamiento": "2008",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Just Dance",
+                "Lovegame",
+                "Paparazzi",
+                "Poker Face",
+                "Beautiful, Dirty, Rich",
+                "The Fame",
+                "Money Honey",
+                "Starstruck",
+                "Boys Boys Boys",
+                "Paper Gangsta",
+                "Brown Eyes",
+                "I Like It Rough",
+                "Summerboy"
+             ]
+          },
+          {
+             "nombre": "The Fame Monster",
+             "fecha de lanzamiento": "2009",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Bad Romance",
+                "Alejandro",
+                "Monster",
+                "Speechless",
+                "Dance in the Dark",
+                "Telephone",
+                "So Happy I Could Die",
+                "Teeth"
+             ]
+          },
+          {
+             "nombre": "Born This Way",
+             "fecha de lanzamiento": "2011",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Marry the Night",
+                "Born This Way",
+                "Government Hooker",
+                "Judas",
+                "Americano",
+                "Hair",
+                "Scheiße",
+                "Bloody Mary",
+                "Bad Kids",
+                "Fashion of His Love",
+                "Highway Unicorn (Road to Love)",
+                "Heavy Metal Lover",
+                "The Edge of Glory"
+             ]
+          },
+          {
+             "nombre": "ARTPOP",
+             "fecha de lanzamiento": "2013",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Aura",
+                "Venus",
+                "G.U.Y.",
+                "Sexxx Dreams",
+                "Jewels N' Drugs",
+                "Manicure",
+                "Do What U Want",
+                "Mary Jane Holland",
+                "Dope",
+                "Fashion!",
+                "Swine",
+                "Donatella",
+                "Fashion! (Extended Version)",
+                "Applause"
+             ]
+          },
+          {
+             "nombre": "Chromatica",
+             "fecha de lanzamiento": "2020",
+             "imagen": "",
+             "link": "",
+             "canciones": [
+                "Chromatica I",
+                "Alice",
+                "Stupid Love",
+                "Rain on Me",
+                "Free Woman",
+                "Fun Tonight",
+                "Back to Basics",
+                "911",
+                "Sour Candy",
+                "Enigma",
+                "Replay",
+                "Plastic Doll",
+                "Sine from Above",
+                "1000 Doves",
+                "Babylon"
+             ]
+          }
+       ]
+    },{
+       "categoría": "Pop",
+       "nombre": "Olivia Rodrigo",
+       "imagen":"https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a",
+       "oyentes": 567890123,  
+       "debut": "2021",
+       "album": [
          {
-            "nombre": "2 Cool 4 Skool",
-            "fecha de lanzamiento": "12 de junio de 2013",
-            "link": "https://www.letras.com/bangtan-boys/discografia/-2-cool-4-skool-2013/",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_645289-MLU72877206817_112023-O.webp",
-            "canciones": [
-               "Intro: 2 Cool 4 Skool",
-               "We Are Bulletproof Pt.2",
-               "Skit: Circle Room Talk",
-               "No More Dream",
-               "Hold Me Tight",
-               "I Like It",
-               "Too Much",
-               "Cool for the Summer",
-               "Interlude: What Do You Want?",
-               "I Like It (Part II)",
-               "Outro: 2 Cool 4 Skool"
-            ]
+           "nombre": "SOUR",
+           "fecha de lanzamiento": "2021",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "brutal",
+             "traitor",
+             "drivers license",
+             "1 step forward, 3 steps back",
+             "deja vu",
+             "good 4 u",
+             "enough for you",
+             "happier",
+             "jealousy, jealousy",
+             "favorite crime",
+             "hope ur ok"
+           ]
          },
          {
-            "nombre": "O!RUL8,2?",
-            "fecha de lanzamiento": "11 de septiembre de 2013",
-            "link": "https://www.letras.com/bangtan-boys/discografia/orul82-2013/",
-            "imagen": "https://static.wikia.nocookie.net/bangtan/images/4/49/Orul82_cover.jpg/revision/latest/scale-to-width-down/1200?cb=20170525224023&path-prefix=es",
-            "canciones": [
-               "Intro: O!RUL8,2?",
-               "We On",
-               "N.O",
-               "Catch Me",
-               "Skit: R U Happy Now?",
-               "Believe",
-               "진격의 방탄 (Attack on Bangtan)",
-               "Spine Breaker",
-               "Skit: Expectation vs. Reality",
-               "Run",
-               "Aftermath",
-               "Outro: O!RUL8,2?"
-            ]
+           "nombre": "SOUR (Deluxe)",
+           "fecha de lanzamiento": "2022",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "brutal",
+             "traitor",
+             "drivers license",
+             "1 step forward, 3 steps back",
+             "deja vu",
+             "good 4 u",
+             "enough for you",
+             "happier",
+             "jealousy, jealousy",
+             "favorite crime",
+             "hope ur ok",
+             "u just got lucky",
+             "out of the blue",
+             "the best day ever"
+           ]
          },
          {
-            "nombre": "Dark & Wild",
-            "fecha de lanzamiento": "19 de agosto de 2014",
-            "link": "https://www.letras.com/bangtan-boys/discografia/darkewild-2014/",
-            "imagen": "https://d20f60vzbd93dl.cloudfront.net/uploads/tienda_013246/tienda_013246_70d6cd6d4efac7aa36cb1e4041d97cc080ef2c11_producto_large_90.png",
-            "canciones": [
-               "Intro: What Am I to You?",
-               "Danger",
-               "100℃",
-               "Fun Boyz",
-               "Skit: R U Happy Now?",
-               "Blanket Kick",
-               "24/7=Heaven",
-               "Can You Turn Off Your Phone?",
-               "Skit: Expectation vs. Reality",
-               "Cypher Pt.3: Killer",
-               "Outro: What Am I to You?"
-            ]
+           "nombre": "Live from the Halls of the Campus",
+           "fecha de lanzamiento": "2022",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "drivers license",
+             "deja vu",
+             "good 4 u",
+             "happier",
+             "jealousy, jealousy",
+             "traitor",
+             "brutal",
+             "enough for you",
+             "favorite crime",
+             "hope ur ok"
+           ]
          },
          {
-            "nombre": "The Most Beautiful Moment in Life, Pt.1",
-            "fecha de lanzamiento": "29 de abril de 2015",
-            "link": "https://www.letras.com/bangtan-boys/discografia/the-most-beautiful-moment-in-life-part-1-2015/",
-            "imagen": "https://static.wikia.nocookie.net/bangtan/images/8/8d/HYYH1cover.jpg/revision/latest?cb=20170525224302&path-prefix=es",
-            "canciones": [
-               "Intro: The Most Beautiful Moment in Life",
-               "I Need U",
-               "Hold Me Tight",
-               "Skit: One Night in a Strange Town",
-               "Dope",
-               "Save Me",
-               "I Like It",
-               "Skit: Expectation vs. Reality",
-               "Love Is Not Over",
-               "Outro: Love Is Not Over"
-            ]
+           "nombre": "SOUR (Acoustic)",
+           "fecha de lanzamiento": "2023",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "brutal (Acoustic)",
+             "traitor (Acoustic)",
+             "drivers license (Acoustic)",
+             "1 step forward, 3 steps back (Acoustic)",
+             "deja vu (Acoustic)",
+             "good 4 u (Acoustic)",
+             "enough for you (Acoustic)",
+             "happier (Acoustic)",
+             "jealousy, jealousy (Acoustic)",
+             "favorite crime (Acoustic)",
+             "hope ur ok (Acoustic)"
+           ]
          },
          {
-            "nombre": "The Most Beautiful Moment in Life, Pt.2",
-            "fecha de lanzamiento": "30 de noviembre de 2015",
-            "link": "https://www.letras.com/bangtan-boys/discografia/bts-the-most-beautiful-moment-in-life-pt2-2015/",
-            "imagen": "https://static.wikia.nocookie.net/bangtan/images/e/ef/HYYH2_cover.jpg/revision/latest/scale-to-width-down/1200?cb=20170525224235&path-prefix=es",
-            "canciones": [
-               "Intro: The Most Beautiful Moment in Life",
-               "Run",
-               "Butterfly",
-               "Whalien 52",
-               "Be There",
-               "Silver Spoon",
-               "Skit: On Stage",
-               "House of Cards",
-               "Love Is Not Over",
-               "Outro: House of Cards"
-            ]
+           "nombre": "SOUR (Extended)",
+           "fecha de lanzamiento": "2024",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "brutal",
+             "traitor",
+             "drivers license",
+             "1 step forward, 3 steps back",
+             "deja vu",
+             "good 4 u",
+             "enough for you",
+             "happier",
+             "jealousy, jealousy",
+             "favorite crime",
+             "hope ur ok",
+             "bonus track 1",
+             "bonus track 2",
+             "bonus track 3"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Kpop",
-      "nombre": "BLACKPINK",
-      "imagen": "https://6.soompi.io/wp-content/uploads/image/cb733e78c1714a118dc470089c812648/dummy.png?s=900x600&e=t",
-      "oyentes": 1629300,
-      "debut": "8 de agosto de 2016",
-      "album": [
+       ]
+     },{
+       "categoría": "Pop",
+       "nombre": "Dua Lipa",
+       "oyentes": 420000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Glasto24_28_300624_%28259_of_545%29_%2853838014719%29_%28cropped%29.jpg/408px-Glasto24_28_300624_%28259_of_545%29_%2853838014719%29_%28cropped%29.jpg",
+       "debut": "2017",
+       "album": [
          {
-            "nombre": "BLACKPINK in Your Area",
-            "fecha de lanzamiento": "1 de noviembre de 2018",
-            "link": "https://www.last.fm/es/music/BLACKPINK/BLACKPINK+IN+YOUR+AREA",
-            "imagen": "https://i.discogs.com/IPAh6vxpOxGNPajfzkJCne7uaNzOngAzIsaAViPsGRM/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyOTE4/MDUzLTE1ODc3MjMw/OTMtMzcwNS5wbmc.jpeg",
-            "canciones": [
-               "DDU-DU DDU-DU",
-               "Forever Young",
-               "Really",
-               "See U Later",
-               "STAY",
-               "WHISTLE",
-               "BOOMBAYAH",
-               "PLAYING WITH FIRE",
-               "AS IF IT'S YOUR LAST",
-               "LALISA"
-            ]
+           "nombre": "Dua Lipa",
+           "fecha de lanzamiento": "2017",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "New Rules",
+             "Be the One",
+             "IDGAF",
+             "Blow Your Mind (Mwah)",
+             "Hotter Than Hell",
+             "Love Again",
+             "Lost in Your Light",
+             "Garden",
+             "No Goodbyes",
+             "Thinkin 'Bout You"
+           ]
          },
          {
-            "nombre": "Kill This Love",
-            "fecha de lanzamiento": "4 de abril de 2019",
-            "link": "https://www.letras.com/blackpink/discografia/kill-this-love-2019/",
-            "imagen": "https://www.lahiguera.net/musicalia/artistas/blackpink/disco/9818/blackpink_kill_this_love-portada.jpg",
-            "canciones": [
-               "Kill This Love",
-               "Don't Know What To Do",
-               "Kick It",
-               "Hope Not",
-               "Ddu-Du Ddu-Du (Remix)",
-               "Kill This Love (Instrumental)"
-            ]
+           "nombre": "Future Nostalgia",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Future Nostalgia",
+             "Don't Start Now",
+             "Cool for the Summer",
+             "Physical",
+             "Levitating",
+             "Pretty Please",
+             "Hallucinate",
+             "Love Again",
+             "Break My Heart",
+             "Good in Bed",
+             "Boys Will Be Boys"
+           ]
          },
          {
-            "nombre": "The Album",
-            "fecha de lanzamiento": "2 de octubre de 2020",
-            "link": "https://www.letras.com/blackpink/discografia/the-album-2020/",
-            "imagen": "https://www.repdiscosperu.com/cdn/shop/products/TheAlbum.png?v=1652662371",
-            "canciones": [
-               "How You Like That",
-               "Ice Cream",
-               "Pretty Savage",
-               "Bet You Wanna",
-               "Lovesick Girls",
-               "Crazy Over You",
-               "Love To Hate Me",
-               "You Never Know",
-               "Love To Hate Me (Acoustic)",
-               "Ice Cream (Instrumental)"
-            ]
+           "nombre": "Club Future Nostalgia",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Don't Start Now (Dua Lipa & The Blessed Madonna Remix)",
+             "Physical (Mark Ronson Remix)",
+             "Levitating (The Blessed Madonna Remix)",
+             "Love Again (The Blessed Madonna Remix)",
+             "Hallucinate (The Blessed Madonna Remix)",
+             "Break My Heart (The Blessed Madonna Remix)",
+             "Good in Bed (The Blessed Madonna Remix)",
+             "Boys Will Be Boys (The Blessed Madonna Remix)",
+             "Future Nostalgia (The Blessed Madonna Remix)",
+             "Pretty Please (The Blessed Madonna Remix)"
+           ]
          },
          {
-            "nombre": "Born Pink",
-            "fecha de lanzamiento": "16 de septiembre de 2022",
-            "link": "https://www.letras.com/blackpink/discografia/born-pink-2022/",
-            "imagen": "https://m.media-amazon.com/images/I/41IF1e95wrL.jpg",
-            "canciones": [
-               "Pink Venom",
-               "Shut Down",
-               "Typa Girl",
-               "Yeah Yeah Yeah",
-               "Hard To Love",
-               "The Happiest Girl",
-               "Tally",
-               "Ready For Love",
-               "Love To Hate Me (Extended)",
-               "Pink Venom (Acoustic)"
-            ]
+           "nombre": "Dua Lipa (Complete Edition)",
+           "fecha de lanzamiento": "2018",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "New Rules",
+             "Be the One",
+             "IDGAF",
+             "Blow Your Mind (Mwah)",
+             "Hotter Than Hell",
+             "Love Again",
+             "Lost in Your Light",
+             "Garden",
+             "No Goodbyes",
+             "Thinkin 'Bout You",
+             "Genesis",
+             "Want To"
+           ]
          },
          {
-            "nombre": "Square Up",
-            "fecha de lanzamiento": "15 de junio de 2018",
-            "link": "https://www.letras.com/blackpink/discografia/square-up-2018/",
-            "imagen": "https://i.discogs.com/3yPhJOKX-gYr33kpMvTkVtoyY_OHInaTMo1BC-ycibw/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMTQ0/ODA3LTE1MzAxNDQ4/MDgtMzk4Ny5qcGVn.jpeg",
-            "canciones": [
-               "Square One",
-               "Playing With Fire",
-               "Stay",
-               "As If It's Your Last"
-            ]
+           "nombre": "The Moonlight Edition",
+           "fecha de lanzamiento": "2018",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "New Rules",
+             "Be the One",
+             "IDGAF",
+             "Blow Your Mind (Mwah)",
+             "Hotter Than Hell",
+             "Love Again",
+             "Lost in Your Light",
+             "Garden",
+             "No Goodbyes",
+             "Thinkin 'Bout You",
+             "Room for 2",
+             "Thinking 'Bout You"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Kpop",
-      "nombre": "Stray Kids",
-      "imagen": "https://i.pinimg.com/736x/9f/b6/84/9fb684d3d5df069d32a6509e31fafcc8.jpg",
-      "oyentes": 1487360,
-      "debut": "25 de marzo de 2018",
-      "album": [
+       ]
+     },{
+       "categoría": "Pop",
+       "nombre": "Katy Perry",
+       "oyentes": 350000000,  
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Katy_Perry_for_Vogue_Magazine%2C_2023.png/330px-Katy_Perry_for_Vogue_Magazine%2C_2023.png",
+       "debut": "2008",
+       "album": [
          {
-            "nombre": "I Am NOT",
-            "fecha de lanzamiento": "25 de marzo de 2018",
-            "link": "https://www.letras.com/stray-kids/discografia/i-am-not-2018/",
-            "imagen": "https://i.scdn.co/image/ab67616d0000b2734ea1886301b2a0d6facf6daa",
-            "canciones": [
-               "I Am NOT",
-               "Noeasy",
-               "My Pace",
-               "Miroh",
-               "District 9",
-               "Hellevator",
-               "The View",
-               "Awaken",
-               "Killer",
-               "Grow Up"
-            ]
+           "nombre": "One of the Boys",
+           "fecha de lanzamiento": "2008",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "I Kissed a Girl",
+             "Hot n Cold",
+             "Waking Up in Vegas",
+             "Thinking of You",
+             "Mannequin",
+             "Ur So Gay",
+             "Lost",
+             "Self Inflicted",
+             "Fingerprints",
+             "Hummingbird Heartbeat",
+             "Dressin' Up",
+             "Not Like the Movies"
+           ]
          },
          {
-            "nombre": "I Am WHO",
-            "fecha de lanzamiento": "5 de agosto de 2018",
-            "link": "https://www.letras.com/stray-kids/discografia/i-am-who-2018/",
-            "imagen": "https://m.media-amazon.com/images/I/51pNFlyavRL._UF1000,1000_QL80_.jpg",
-            "canciones": [
-               "I Am WHO",
-               "You",
-               "Miroh",
-               "District 9",
-               "Awaken",
-               "Hellevator",
-               "The View",
-               "Grow Up",
-               "Killer",
-               "Awaken (Stray Kids Remix)"
-            ]
+           "nombre": "Teenage Dream",
+           "fecha de lanzamiento": "2010",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Teenage Dream",
+             "Last Friday Night (T.G.I.F.)",
+             "California Gurls",
+             "Firework",
+             "Peacock",
+             "Circle the Drain",
+             "The One That Got Away",
+             "Dressin' Up",
+             "Who Am I Living For?",
+             "Pearl",
+             "Hummingbird Heartbeat",
+             "Not Like the Movies"
+           ]
          },
          {
-            "nombre": "I Am YOU",
-            "fecha de lanzamiento": "22 de octubre de 2018",
-            "link": "https://www.letras.com/stray-kids/discografia/i-am-you-2018/",
-            "imagen": "https://i.scdn.co/image/ab67616d0000b273c002532ce368e31a3cd2cb64",
-            "canciones": [
-               "I Am YOU",
-               "Double Knot",
-               "You",
-               "Hero's Journey",
-               "Astronaut",
-               "Star",
-               "A Stranger",
-               "Mixed Up",
-               "It's Not Love"
-            ]
+           "nombre": "Prism",
+           "fecha de lanzamiento": "2013",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Roar",
+             "Legendary Lovers",
+             "Birthday",
+             "Walking on Air",
+             "Unconditionally",
+             "Dark Horse",
+             "This Is How We Do",
+             "Last Friday Night (T.G.I.F.)",
+             "Ghost",
+             "Love Me",
+             "This Moment",
+             "Double Rainbow",
+             "By the Grace of God"
+           ]
          },
          {
-            "nombre": "Clé 1 : Miroh",
-            "fecha de lanzamiento": "25 de marzo de 2019",
-            "link": "https://www.letras.com/stray-kids/discografia/cle1-miroh-2019/",
-            "imagen": "https://i.scdn.co/image/ab67616d0000b273fad57c1d77537a8dbd6c2177",
-            "canciones": [
-               "Miroh",
-               "Victory Song",
-               "Question",
-               "Top",
-               "Insomnia",
-               "Revelation",
-               "Sick",
-               "Writers",
-               "Crown",
-               "Say Cheese"
-            ]
+           "nombre": "Witness",
+           "fecha de lanzamiento": "2017",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Witness",
+             "Hey Hey Hey",
+             "Roulette",
+             "Swish Swish",
+             "Deja Vu",
+             "Power",
+             "Mind Maze",
+             "Miss You More",
+             "Champagne Problems",
+             "Tsunami",
+             "Save as Draft",
+             "Into Me You See"
+           ]
          },
          {
-            "nombre": "Clé 2 : Yellow Wood",
-            "fecha de lanzamiento": "19 de junio de 2019",
-            "link": "https://www.letras.com/stray-kids/discografia/cle2-yellow-wood-2019/",
-            "imagen": "https://i.scdn.co/image/ab67616d0000b273869bb5c720b743357fd402bd",
-            "canciones": [
-               "Yellow Wood",
-               "Mixtape",
-               "Beware",
-               "My Side",
-               "This Is Love",
-               "Hang",
-               "Exit",
-               "Terror",
-               "Fire",
-               "More"
-            ]
+           "nombre": "Smile",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Never Really Over",
+             "Cry About It Later",
+             "Teary Eyes",
+             "Resilient",
+             "Not the End of the World",
+             "Smile",
+             "Champagne Problems",
+             "Daisies",
+             "Rooftop",
+             "Katy's Gone",
+             "Only Love",
+             "What Makes a Woman"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Kpop",
-      "nombre": "TWICE",
-      "imagen": "https://i.pinimg.com/564x/93/28/c4/9328c400cfb0cabfb018a8378a41d5ec.jpg",
-      "oyentes": 2093840,
-      "debut": "20 de octubre de 2015",
-      "album": [
+       ]
+     },{
+       "categoría": "Cumbia",
+       "nombre": "Carlos Vives",
+       "oyentes": 150000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Carlos_Vives_Premios_Lo_Nuestro_2016.jpg/540px-Carlos_Vives_Premios_Lo_Nuestro_2016.jpg",
+       "debut": "1993",
+       "album": [
          {
-            "nombre": "The Story Begins",
-            "fecha de lanzamiento": "20 de octubre de 2015",
-            "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/e/2/4/2/466991445810522.jpg",
-            "link": "https://www.letras.com/twice-k-pop/discografia/the-story-begins-1st-mini-album-2015/",
-            "canciones": [
-               "Like Ooh-Ahh",
-               "Do It Again",
-               "Going Crazy",
-               "Wake Me Up",
-               "U",
-               "Stop Stop It",
-               "Cheer Up",
-               "Precious Love",
-               "Kiss Lips",
-               "Woohoo",
-               "I’m Gonna Be A Star"
-            ]
+           "nombre": "Clásicos de la Provincia",
+           "fecha de lanzamiento": "1993",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "La gota fría",
+             "El carretero",
+             "Oye mujer",
+             "Ingrata",
+             "La cumbia de la gente",
+             "Pico y placa",
+             "Cumbia de la madrugada",
+             "La boda de la cumbia",
+             "Cumbia y salsa",
+             "Cumbia del río",
+             "El sabroso",
+             "La cumbia del chavo"
+           ]
          },
          {
-            "nombre": "Page Two",
-            "fecha de lanzamiento": "25 de abril de 2016",
-            "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/2/b/7/9/500661461870742.jpg",
-            "link": "https://www.letras.com/twice-k-pop/discografia/page-two-2016/",
-            "canciones": [
-               "Cheer Up",
-               "Precious Love",
-               "Kiss Lips",
-               "Woohoo",
-               "Im Gonna Be A Star",
-               "Page Two",
-               "Ding Dong",
-               "Not Alone",
-               "Bingo"
-            ]
+           "nombre": "La Tierra del Olvido",
+           "fecha de lanzamiento": "1999",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "La tierra del olvido",
+             "Fruta fresca",
+             "La gota fría",
+             "Déjala que vuelva",
+             "Todo tiene su final",
+             "El amor de mi tierra",
+             "Cumbia sobre el río",
+             "Me resfrié",
+             "Si me dejas ahora",
+             "Los niños de la calle",
+             "El carro de la cumbia",
+             "La cumbia del amor"
+           ]
          },
          {
-            "nombre": "Twicecoaster: Lane 1",
-            "fecha de lanzamiento": "24 de octubre de 2016",
-            "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/2/f/e/1/542841477483534.jpg",
-            "link": "https://www.letras.com/twice-k-pop/discografia/twicecoaster-lane-1-2016/",
-            "canciones": [
-               "TT",
-               "We Like It",
-               "Jelly Jelly",
-               "Falling In Love",
-               "One In A Million",
-               "Turtle Ship",
-               "The Day Before",
-               "Ponytail",
-               "Psycho"
-            ]
+           "nombre": "El Rock de mi Pueblo",
+           "fecha de lanzamiento": "2004",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Déjala que vuelva",
+             "La cumbia de la clase",
+             "Me resfrié",
+             "El amor de mi tierra",
+             "Cumbia sobre el río",
+             "El carretero",
+             "El rock de mi pueblo",
+             "Fruta fresca",
+             "La tierra del olvido",
+             "Los niños de la calle",
+             "Cumbia y salsa",
+             "La boda de la cumbia"
+           ]
          },
          {
-            "nombre": "Twicecoaster: Lane 2",
-            "fecha de lanzamiento": "20 de febrero de 2017",
-            "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/a/b/8/d/565681487683609.jpg",
-            "link": "https://www.letras.com/twice-k-pop/discografia/twicecoaster-lane-2-2017/",
-            "canciones": [
-               "Knock Knock",
-               "Roly-Poly",
-               "Ponytail",
-               "Jelly Jelly",
-               "TT",
-               "Ding-Dong",
-               "One In A Million",
-               "We Like It",
-               "Falling In Love",
-               "The Day Before"
-            ]
+           "nombre": "Vives",
+           "fecha de lanzamiento": "2017",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Robarte un beso",
+             "La bicicleta",
+             "El talismán",
+             "Baila, baila, baila",
+             "Déjala que vuelva",
+             "Suerte",
+             "El amor de mi tierra",
+             "La cumbia de la clase",
+             "Fruta fresca",
+             "Me resfrié",
+             "La tierra del olvido",
+             "Cumbia sobre el río"
+           ]
          },
          {
-            "nombre": "Signal",
-            "fecha de lanzamiento": "15 de mayo de 2017",
-            "imagen": "https://akamai.sscdn.co/letras/360x360/albuns/d/2/6/8/579971495541415.jpg",
-            "link": "https://www.letras.com/twice-k-pop/discografia/signal-2017/",
-            "canciones": [
-               "Signal",
-               "Three Strikes",
-               "Roly-Poly",
-               "Cheer Up",
-               "Precious Love",
-               "Wake Me Up",
-               "TT",
-               "Falling In Love",
-               "Im Gonna Be A Star",
-               "The Day Before"
-            ]
+           "nombre": "Cumbiana",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbiana",
+             "El orgullo",
+             "Cumbia de la tierra",
+             "Pa' Mayté",
+             "La cumbia de la pandemia",
+             "El carro de la cumbia",
+             "Si me dejas ahora",
+             "Cumbia y salsa",
+             "La boda de la cumbia",
+             "Cumbia del río",
+             "El sabroso",
+             "Cumbia del amor"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Kpop",
-      "nombre": "TOMORROW X TOGETHER",
-      "oyentes": 1987654,
-      "imagen": "https://static.wikia.nocookie.net/drama/images/8/8d/TXT1.jpg/revision/latest/scale-to-width-down/1200?cb=20190218164905&path-prefix=es",
-      "debut": "4 de marzo de 2019",
-      "album": [
+       ]
+     },{
+       "categoría": "Cumbia",
+       "nombre": "La Sonora Dinamita",
+       "oyentes": 20000000, 
+       "imagen": "https://pbs.twimg.com/media/FrSKo1AWAAEZvKS.jpg",
+       "debut": "1960",
+       "album": [
          {
-            "nombre": "The Dream Chapter: STAR",
-            "fecha de lanzamiento": "4 de marzo de 2019",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Blue Hour",
-               "Crown",
-               "Cat & Dog",
-               "Our Summer",
-               "Nap of a Star",
-               "Angel or Devil",
-               "Magic Island"
-            ]
+           "nombre": "Cumbia sobre el río",
+           "fecha de lanzamiento": "1980",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbia sobre el río",
+             "El capuchón",
+             "La cumbia del Río",
+             "El teléfono",
+             "La cumbia de la ventana",
+             "El corralero",
+             "La cumbia de los pajaritos",
+             "La cumbia de los nativos",
+             "El guanábano",
+             "El bailarín"
+           ]
          },
          {
-            "nombre": "The Dream Chapter: MAGIC",
-            "fecha de lanzamiento": "9 de octubre de 2019",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Run Away",
-               "9 and Three Quarters (Run Away)",
-               "New Rules",
-               "Poppin' Star",
-               "Roller Coaster",
-               "Fairy of Shampoo",
-               "Magic Island",
-               "Dream Chapter: MAGIC"
-            ]
+           "nombre": "La Cumbia y su Estilo",
+           "fecha de lanzamiento": "1986",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "La cumbia y su estilo",
+             "Cumbia en el barrio",
+             "El Tiki Tiki",
+             "El gallo y la gallina",
+             "La cumbia de los borrachos",
+             "La cumbia del amor",
+             "El cumbión",
+             "La cumbia de la fiesta",
+             "El baile de la cumbia",
+             "La cumbia del cañaveral"
+           ]
          },
          {
-            "nombre": "The Dream Chapter: ETERNITY",
-            "fecha de lanzamiento": "18 de mayo de 2020",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "0X1=LOVESONG (I Know I Love You) ft. Seori",
-               "Anti-Romantic",
-               "Magic Island",
-               "Crown",
-               "Blue Hour",
-               "Love Song",
-               "Fairy of Shampoo",
-               "Can't You See Me?"
-            ]
+           "nombre": "Cumbia Fiesta",
+           "fecha de lanzamiento": "1991",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbia Fiesta",
+             "El cumbión",
+             "La cumbia del calentamiento",
+             "El cumbión de la tarde",
+             "La cumbia del monte",
+             "La cumbia de los viejitos",
+             "La cumbia del sol",
+             "La cumbia del mar",
+             "El baile del sabroso",
+             "La cumbia del grupo"
+           ]
          },
          {
-            "nombre": "minisode1: Blue Hour",
-            "fecha de lanzamiento": "26 de octubre de 2020",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Blue Hour",
-               "Ghosting",
-               "Genius",
-               "Fairy of Shampoo",
-               "0X1=LOVESONG (I Know I Love You)",
-               "Love Song",
-               "Can't You See Me?"
-            ]
+           "nombre": "La Sonora Dinamita Vol. 3",
+           "fecha de lanzamiento": "1995",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbia sobre el río",
+             "El pasito de la cumbia",
+             "La cumbia de los bares",
+             "El zapato de charol",
+             "La cumbia de la vaca",
+             "La cumbia del amor",
+             "La cumbia de los novios",
+             "El guachinango",
+             "La cumbia de la fiesta",
+             "El cumbión sabroso"
+           ]
          },
          {
-            "nombre": "The Chaos Chapter: FREEZE",
-            "fecha de lanzamiento": "31 de mayo de 2021",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "0X1=LOVESONG (I Know I Love You) ft. Seori",
-               "Frost",
-               "No Rules",
-               "MOA Diary",
-               "Rockin' Around the Clock",
-               "0X1=LOVESONG (I Know I Love You)",
-               "Anti-Romantic",
-               "Magic Island"
-            ]
+           "nombre": "El Cumbión del Año",
+           "fecha de lanzamiento": "2000",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El cumbión del año",
+             "La cumbia del palacio",
+             "La cumbia de los saludos",
+             "La cumbia del río",
+             "La cumbia de la alegría",
+             "El cumbión del barrio",
+             "El baile de la cumbia",
+             "La cumbia de los sabrosos",
+             "La cumbia de la fiesta",
+             "El cumbión de los amigos"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Reguetón",
-      "nombre": "Daddy Yankee",
-      "oyentes": 12045678,
-      "debut": "29 de marzo de 1995",
-      "album": [
+       ]
+     },{
+       "categoría": "Cumbia",
+       "nombre": "Grupo Cañaveral",
+       "oyentes": 5000000,
+       "imagen": "https://imagenes.auditorio.com.mx/cartelera/2024/Grupo-Canaveral/Auditorio-Canaveral-mobile.jpg",
+       "debut": "1995",
+       "album": [
          {
-            "nombre": "No Mercy",
-            "fecha de lanzamiento": "23 de julio de 2004",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Noche de Travesura",
-               "Lo Que Pasó, Pasó",
-               "Sabor a Mar",
-               "Nalgas",
-               "Cásate Conmigo",
-               "Pura Sabrosura",
-               "Vuelve",
-               "Dejalo",
-               "Rompe"
-            ]
+           "nombre": "Cumbia Internacional",
+           "fecha de lanzamiento": "1997",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El baile del gorrión",
+             "Cumbia internacional",
+             "Cumbia del sol",
+             "Cumbia sabrosona",
+             "El cumbión",
+             "La cumbia de los amigos",
+             "Cumbia de la fiesta",
+             "El sabroso",
+             "La cumbia del río",
+             "El vacilón"
+           ]
          },
          {
-            "nombre": "Barrio Fino",
-            "fecha de lanzamiento": "30 de junio de 2004",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Gasolina",
-               "Lo Que Pasó, Pasó",
-               "Nalgas",
-               "Sabor a Mar",
-               "Cásate Conmigo",
-               "Pura Sabrosura",
-               "Vuelve",
-               "Dejalo",
-               "Rompe",
-               "Ella Me Levantó"
-            ]
+           "nombre": "A Toda Máquina",
+           "fecha de lanzamiento": "1999",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbia de la cumbia",
+             "A toda máquina",
+             "El baile del chavo",
+             "La cumbia de los charros",
+             "El cumbión del verano",
+             "Cumbia tropical",
+             "La fiesta continúa",
+             "Cumbia del sabor",
+             "El vacilón de la cumbia",
+             "Cumbia del choteo"
+           ]
          },
          {
-            "nombre": "Talento de Barrio",
-            "fecha de lanzamiento": "29 de julio de 2008",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Talento de Barrio",
-               "Ella Me Levantó",
-               "Lo Que Pasó, Pasó",
-               "Rompe",
-               "Sabor a Mar",
-               "Cásate Conmigo",
-               "Pura Sabrosura",
-               "Vuelve",
-               "Dejalo"
-            ]
+           "nombre": "El Sabor de la Cumbia",
+           "fecha de lanzamiento": "2002",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbia del sabor",
+             "El cumbión sabroso",
+             "La cumbia del cañaveral",
+             "Cumbia tropical",
+             "El baile de los charros",
+             "La fiesta de la cumbia",
+             "El vacilón de la cumbia",
+             "La cumbia de los recuerdos",
+             "Cumbia del cariño",
+             "El cumbión del amor"
+           ]
          },
          {
-            "nombre": "Mundial",
-            "fecha de lanzamiento": "2 de noviembre de 2010",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Descontrol",
-               "La Despedida",
-               "Ven Conmigo",
-               "Vamo' a Beber",
-               "A Lo Loco",
-               "Héroe",
-               "Esto Es Lo Que Hay",
-               "No Te Vayas",
-               "Sola"
-            ]
+           "nombre": "Duro y a la Cabeza",
+           "fecha de lanzamiento": "2005",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Duro y a la cabeza",
+             "El cumbión del verano",
+             "Cumbia del río",
+             "La cumbia de la familia",
+             "Cumbia del amor",
+             "La fiesta continúa",
+             "Cumbia del vacilón",
+             "El baile de la cumbia",
+             "La cumbia sabrosona",
+             "El sabroso"
+           ]
          },
          {
-            "nombre": "Prestige",
-            "fecha de lanzamiento": "17 de septiembre de 2012",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Limbo",
-               "Duro",
-               "Siguelo",
-               "Pura Vida",
-               "El Hombre de Tu Vida",
-               "Bailando por Ahí",
-               "Machete",
-               "Una Vaina Loca",
-               "Vuelve"
-            ]
+           "nombre": "Cumbia con Clase",
+           "fecha de lanzamiento": "2010",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbia con clase",
+             "El cumbión del año",
+             "La fiesta de la cumbia",
+             "Cumbia de los amigos",
+             "El cumbión sabroso",
+             "Cumbia del río",
+             "La cumbia de la tarde",
+             "El vacilón de la cumbia",
+             "La cumbia del chavo",
+             "Cumbia del amor"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Reguetón",
-      "nombre": "Bad Bunny",
-      "oyentes": 34567890,
-      "debut": "17 de noviembre de 2017",
-      "album": [
+       ]
+     },{
+       "categoría": "Cumbia",
+       "nombre": "Gilda",
+       "oyentes": 10000000,
+       "imagen": "https://i0.wp.com/www.sol915.com.ar/wp-content/uploads/2023/09/gilda-27-anos-2023.jpg?resize=696%2C691&ssl=1",
+       "debut": "1989",
+       "album": [
          {
-            "nombre": "X 100PRE",
-            "fecha de lanzamiento": "24 de diciembre de 2018",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Ahora Me Llama",
-               "200 MPH",
-               "Mía",
-               "Caro",
-               "Tenemos Que Hablar",
-               "Solo de Mí",
-               "¿Quién Tú Eres?",
-               "La Rompe Corazones",
-               "Cógelo Suave",
-               "La Noche de Anoche",
-               "Vete"
-            ]
+           "nombre": "Gilda",
+           "fecha de lanzamiento": "1989",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "No Me Arrepiento de Este Amor",
+             "Fuiste",
+             "Te Quiero",
+             "Como Te Extraño",
+             "Voy a Templarte",
+             "Que Te Hace Falta",
+             "Acompañame",
+             "Dejame",
+             "Como Me Duele",
+             "Dejame Llanto"
+           ]
          },
          {
-            "nombre": "YHLQMDLG",
-            "fecha de lanzamiento": "29 de febrero de 2020",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Vete",
-               "Si Veo a Tu Mamá",
-               "La Difícil",
-               "YHLQMDLG",
-               "Pero Ya No",
-               "Safaera",
-               "Solita",
-               "Que Pretendes",
-               "Ignorantes",
-               "Pa' Romperla",
-               "Puesto Pa' Ti",
-               "Bye Me Fui"
-            ]
+           "nombre": "Gilda y la Cumbia del País",
+           "fecha de lanzamiento": "1990",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "No Te Pido",
+             "Cumbia del País",
+             "Hagamos el Amor",
+             "Te Quiero",
+             "Soy Lo Que Soy",
+             "El Amor Es así",
+             "Baila",
+             "Quererte Así",
+             "Que Te Hace Falta",
+             "El Fuego"
+           ]
          },
          {
-            "nombre": "El Último Tour Del Mundo",
-            "fecha de lanzamiento": "10 de diciembre de 2020",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "El Mundo Es Mio",
-               "Yo Perreo Sola",
-               "La Noche de Anoche",
-               "Malamente",
-               "A Tu Merced",
-               "Pa' Romperla",
-               "RITMO",
-               "Tú No Metes Cabra",
-               "El Abandono",
-               "La Canción",
-               "Te Muero"
-            ]
+           "nombre": "Gilda, la Cumbia de la Mujer",
+           "fecha de lanzamiento": "1992",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "No Me Arrepiento de Este Amor",
+             "Fuiste",
+             "Como Te Extraño",
+             "Te Quiero",
+             "Dejame",
+             "Voy a Templarte",
+             "Acompañame",
+             "Como Me Duele",
+             "Si Te Vas",
+             "No Te Pido"
+           ]
          },
          {
-            "nombre": "Un Verano Sin Ti",
-            "fecha de lanzamiento": "6 de mayo de 2022",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Moscow Mule",
-               "Titi Me Preguntó",
-               "Un Peso",
-               "Después de la Playa",
-               "Efecto",
-               "Me Porto Bonito",
-               "Neverita",
-               "La Corriente",
-               "El Apagón",
-               "Party",
-               "Puesto Pa' Ti",
-               "Bye Me Fui"
-            ]
+           "nombre": "Corazón Valiente",
+           "fecha de lanzamiento": "1995",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Corazón Valiente",
+             "Que Te Hace Falta",
+             "Que No Daría",
+             "No Te Vayas",
+             "Déjala",
+             "Voy a Templarte",
+             "Como Te Extraño",
+             "Acompañame",
+             "No Me Arrepiento",
+             "Dejame"
+           ]
          },
          {
-            "nombre": "Nadie Sabe Lo Que Va a Pasar Mañana",
-            "fecha de lanzamiento": "28 de octubre de 2022",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Un Verano Sin Ti",
-               "Pillar el Momento",
-               "Desde el Norte",
-               "El Antídoto",
-               "Lo Que Perdimos",
-               "La Pared",
-               "Que Lo Que",
-               "Santo",
-               "Donde Está Tu Amor",
-               "En Lo Oscuro",
-               "Volver"
-            ]
+           "nombre": "La Cumbia de Gilda",
+           "fecha de lanzamiento": "1997",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "No Me Arrepiento de Este Amor",
+             "Fuiste",
+             "Como Te Extraño",
+             "Voy a Templarte",
+             "Dejame",
+             "Que Te Hace Falta",
+             "Acompañame",
+             "Si Te Vas",
+             "Como Me Duele",
+             "El Amor"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Reguetón",
-      "nombre": "Don Omar",
-      "oyentes": 2345678,
-      "debut": "2 de diciembre de 2003",
-      "album": [
+       ]
+     },{
+       "categoría": "Cumbia",
+       "nombre": "Kumbia Kings",
+       "oyentes": 20000000,  
+       "imagen": "https://st1.uvnimg.com/4e/62/37520a3741758d25bbcd916808b8/kumbia647.jpg",
+       "debut": "1999",
+       "album": [
          {
-            "nombre": "The Last Don",
-            "fecha de lanzamiento": "2 de diciembre de 2003",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Dile Que Tú Me Quieres",
-               "Pobre Diabla",
-               "Sálvame",
-               "Ahora Es",
-               "La Roca",
-               "Dile Que Tú Me Quieres",
-               "Los Bandoleros",
-               "Que Tengo Que Hacer",
-               "Pobre Diabla",
-               "Sálvame"
-            ]
+           "nombre": "Cumbia Kings",
+           "fecha de lanzamiento": "1999",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El cumbión del barrio",
+             "Cumbia de la primavera",
+             "La cumbia del Río",
+             "El baile de la cumbia",
+             "Cumbia de los recuerdos",
+             "Cumbia sabrosona",
+             "La fiesta de la cumbia",
+             "El sabroso",
+             "Cumbia del amor",
+             "El vacilón"
+           ]
          },
          {
-            "nombre": "King of Kings",
-            "fecha de lanzamiento": "18 de septiembre de 2006",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Súbeme la Radio",
-               "Danza Kuduro",
-               "Dile Que Tú Me Quieres",
-               "Danza Kuduro",
-               "Los Bandoleros",
-               "Baila Baila",
-               "Ahora Es",
-               "El Rey",
-               "Te Dejo Ir",
-               "Lo Que Pasó"
-            ]
+           "nombre": "Cumbia Kings Live",
+           "fecha de lanzamiento": "2001",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbia Kings Live Intro",
+             "La cumbia del Río",
+             "El cumbión del verano",
+             "La fiesta de la cumbia",
+             "Cumbia sabrosona",
+             "El baile de la cumbia",
+             "El vacilón",
+             "Cumbia de la primavera",
+             "Cumbia del amor",
+             "El sabroso"
+           ]
          },
          {
-            "nombre": "iDon",
-            "fecha de lanzamiento": "2 de diciembre de 2009",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Taboo",
-               "Danza Kuduro",
-               "Te Dejo Ir",
-               "Héroe",
-               "Casi Te Envidio",
-               "El Rey",
-               "Te Boté",
-               "Qué Tengo Que Hacer",
-               "Los Bandoleros",
-               "Vamos a Hacerlo"
-            ]
+           "nombre": "The Best of Cumbia Kings",
+           "fecha de lanzamiento": "2003",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El cumbión del barrio",
+             "La cumbia del amor",
+             "El baile de la cumbia",
+             "Cumbia sabrosona",
+             "Cumbia del Río",
+             "La fiesta continúa",
+             "Cumbia de los recuerdos",
+             "El sabroso",
+             "Cumbia de la primavera",
+             "El vacilón"
+           ]
          },
          {
-            "nombre": "Meet the Orphans",
-            "fecha de lanzamiento": "16 de noviembre de 2010",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Danza Kuduro",
-               "Hasta Que Salga el Sol",
-               "Perdóname",
-               "Déjame",
-               "Eres Tú",
-               "Dile Que Tú Me Quieres",
-               "Pobre Diabla",
-               "Sálvame",
-               "La Roca",
-               "Los Bandoleros"
-            ]
+           "nombre": "La Cumbia de la Vida",
+           "fecha de lanzamiento": "2006",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "La cumbia de la vida",
+             "El cumbión del año",
+             "Cumbia del Río",
+             "El baile de la cumbia",
+             "La fiesta de la cumbia",
+             "Cumbia sabrosona",
+             "Cumbia del amor",
+             "El vacilón",
+             "Cumbia de los recuerdos",
+             "El sabroso"
+           ]
          },
          {
-            "nombre": "The Last Don 2",
-            "fecha de lanzamiento": "16 de febrero de 2015",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "No Apagues La Luz",
-               "Mírame",
-               "Soledad",
-               "Dale Don Dale",
-               "Es Un Secreto",
-               "Todo Es Un Sueño",
-               "Qué Tengo Que Hacer",
-               "Los Bandoleros",
-               "Déjame",
-               "Todo Es Un Sueño"
-            ]
+           "nombre": "Cumbia Kings Presenta: Cumbia Kings All-Stars",
+           "fecha de lanzamiento": "2008",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cumbia Kings All-Stars Intro",
+             "El cumbión del verano",
+             "La cumbia del Río",
+             "Cumbia sabrosona",
+             "El baile de la cumbia",
+             "La fiesta de la cumbia",
+             "Cumbia del amor",
+             "El vacilón",
+             "Cumbia de los recuerdos",
+             "El sabroso"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Reguetón",
-      "nombre": "Nicky Jam",
-      "oyentes": 4567890,
-      "debut": "4 de junio de 1994",
-      "album": [
+       ]
+     },{
+       "categoría": "Rock",
+       "nombre": "Axel Rose",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/GNRChorzow090718-76_%2830169034758%29.jpg/220px-GNRChorzow090718-76_%2830169034758%29.jpg",
+       "debut": "1985",
+       "album": [
          {
-            "nombre": "Haciendo Escante",
-            "fecha de lanzamiento": "6 de diciembre de 2004",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "La Combi",
-               "Por Ti",
-               "Haciendo Escante",
-               "En Lo Oscuro",
-               "Te Vuelvo a Ver",
-               "Casi Te Olvido",
-               "Mi Melodía",
-               "Contigo",
-               "Déjame Amarte"
-            ]
+           "nombre": "Appetite for Destruction",
+           "fecha de lanzamiento": "1987",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Welcome to the Jungle",
+             "It's So Easy",
+             "Nightrain",
+             "Out Ta Get Me",
+             "Mr. Brownstone",
+             "Paradise City",
+             "My Michelle",
+             "Think About You",
+             "Sweet Child o' Mine",
+             "You're Crazy",
+             "Anything Goes",
+             "Rocket Queen"
+           ]
          },
          {
-            "nombre": "Fenix",
-            "fecha de lanzamiento": "20 de enero de 2015",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "El Perdón",
-               "Travesuras",
-               "Si Tú la Ves",
-               "El Amante",
-               "Juntos",
-               "Te Busco",
-               "Me Voy",
-               "Una Cita",
-               "Fénix"
-            ]
+           "nombre": "Use Your Illusion I",
+           "fecha de lanzamiento": "1991",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Right Next Door to Hell",
+             "Dust N' Bones",
+             "Live and Let Die",
+             "Don't Cry",
+             "Perfect Crime",
+             "You Ain't the First",
+             "Bad Obsession",
+             "Back off Bitch",
+             "Double Talkin' Jive",
+             "November Rain",
+             "The Garden",
+             "Dead Horse",
+             "Coma"
+           ]
          },
          {
-            "nombre": "Los Cangris",
-            "fecha de lanzamiento": "19 de septiembre de 2016",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Mi Gente",
-               "Una Vaina Loca",
-               "Parece",
-               "Que Va",
-               "Reggaetón",
-               "Te Sigo Amando",
-               "La Llamada",
-               "Si Tú Supieras",
-               "Dile Que Tú Me Quieres"
-            ]
+           "nombre": "Use Your Illusion II",
+           "fecha de lanzamiento": "1991",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Civil War",
+             "10 Years",
+             "14 Years",
+             "Yesterdays",
+             "Knockin' on Heaven's Door",
+             "Get in the Ring",
+             "Shotgun Blues",
+             "Breakdown",
+             "Pretty Tied Up",
+             "Locomotive",
+             "So Fine",
+             "Estranged",
+             "You Could Be Mine"
+           ]
          },
          {
-            "nombre": "Ñejo & Dálmata",
-            "fecha de lanzamiento": "9 de junio de 2017",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Que Me Digan",
-               "Amor de Mi Vida",
-               "Bebé",
-               "Todo es Fácil",
-               "Esa Noche",
-               "No Te Vayas",
-               "Fuego",
-               "Héroe",
-               "Hasta el Fin"
-            ]
+           "nombre": "The Spaghetti Incident?",
+           "fecha de lanzamiento": "1993",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Since I Don't Have You",
+             "New Rose",
+             "Down on the Farm",
+             "Human Being",
+             "Raw Power",
+             "Ain't It Fun",
+             "Buick Makane",
+             "Madagascar",
+             "Rags to Riches",
+             "One in a Million"
+           ]
          },
          {
-            "nombre": "Greatest Hits",
-            "fecha de lanzamiento": "14 de diciembre de 2017",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "El Perdón",
-               "Travesuras",
-               "Juntos",
-               "Si Tú la Ves",
-               "El Amante",
-               "Me Voy",
-               "Una Cita",
-               "Te Busco",
-               "Fénix"
-            ]
+           "nombre": "Chinese Democracy",
+           "fecha de lanzamiento": "2008",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Chinese Democracy",
+             "Shackler's Revenge",
+             "Better",
+             "Street of Dreams",
+             "If the World",
+             "There Was a Time",
+             "Catcher in the Rye",
+             "Scraped",
+             "Riad N' the Bedouins",
+             "Sorry",
+             "I.R.S.",
+             "Madagascar",
+             "This I Love",
+             "Prostitute"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Reguetón",
-      "nombre": "Karol G",
-      "oyentes": 23456789,
-      "debut": "27 de octubre de 2017",
-      "album": [
+       ]
+     },{
+       "categoría": "Rock",
+       "nombre": "Mick Jagger",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg/220px-RStonesHydePark030722_%2849_of_125%29_%2852193656268%29_%28cropped%29.jpg",
+       "debut": "1964",
+       "album": [
          {
-            "nombre": "Unstoppable",
-            "fecha de lanzamiento": "27 de octubre de 2017",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Ahora Me Llama",
-               "Casi Nada",
-               "Dame",
-               "Casi Nada",
-               "Dando de Qué Hablar",
-               "Punto G",
-               "Mi Cama",
-               "El Anillo",
-               "Dile Que Tú Me Quieres",
-               "Lo Que Siento Por Ti"
-            ]
+           "nombre": "She's the Boss",
+           "fecha de lanzamiento": "1985",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Lonely at the Top",
+             "She's the Boss",
+             "1/2 a Loaf",
+             "Goats Head Soup",
+             "Hard Woman",
+             "Secret Affair",
+             "Pretty Beat Up",
+             "Sister Morphine",
+             "Winning Ugly",
+             "Dancin' in the Street"
+           ]
          },
          {
-            "nombre": "Ocean",
-            "fecha de lanzamiento": "3 de mayo de 2019",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Ocean",
-               "Secreto",
-               "Punto G",
-               "A Ella",
-               "Dama y Vagabundo",
-               "Me Gusta",
-               "La Vida de la Fiesta",
-               "A Ella",
-               "Mi Cama",
-               "Dando de Qué Hablar"
-            ]
+           "nombre": "Primitive Cool",
+           "fecha de lanzamiento": "1987",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Say You Will",
+             "Primitive Cool",
+             "Throwaway",
+             "Hard Woman",
+             "Secret Affair",
+             "Pretty Beat Up",
+             "Sister Morphine",
+             "Winning Ugly",
+             "Dancin' in the Street",
+             "New Face in Hell"
+           ]
          },
          {
-            "nombre": "KG0516",
-            "fecha de lanzamiento": "25 de marzo de 2021",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Provenza",
-               "Bichota",
-               "Ay Dios Mío",
-               "El Makinon",
-               "El Barco",
-               "Dices Que Te Vas",
-               "Don’t Be Shy (Remix)",
-               "Que Manera",
-               "Luna",
-               "La Loba"
-            ]
+           "nombre": "Wandering Spirit",
+           "fecha de lanzamiento": "1993",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Wired All Night",
+             "Sweet Thing",
+             "Love Is Strong",
+             "Wandering Spirit",
+             "Out of Focus",
+             "Put Me in the Trash",
+             "I've Been Lonely for So Long",
+             "Mother of a Man",
+             "Losing My Touch",
+             "A Different Kind of Blue"
+           ]
          },
          {
-            "nombre": "Bichota",
-            "fecha de lanzamiento": "18 de octubre de 2021",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Bichota",
-               "El Makinon",
-               "Que Manera",
-               "Dices Que Te Vas",
-               "Provenza",
-               "Don’t Be Shy (Remix)",
-               "Luna",
-               "La Loba",
-               "A Ella",
-               "Bichota (Remix)"
-            ]
+           "nombre": "Goddess in the Doorway",
+           "fecha de lanzamiento": "2001",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Visions of Paradise",
+             "God Gave Me Everything",
+             "Hide Away",
+             "Don't Call Me Up",
+             "Lucky in Love",
+             "Gun",
+             "Goddess in the Doorway",
+             "I'm Going Down",
+             "Too Many Cooks",
+             "Dancing in the Street"
+           ]
          },
          {
-            "nombre": "Mañana Será Bonito",
-            "fecha de lanzamiento": "24 de febrero de 2023",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "TQG",
-               "Provenza",
-               "Punto G",
-               "Gato de Noche",
-               "El Makinon",
-               "No Me Conocen",
-               "Lo Que Siento Por Ti",
-               "Ya No Te Quiero",
-               "La Vida de la Fiesta",
-               "Dama y Vagabundo"
-            ]
+           "nombre": "SuperHeavy",
+           "fecha de lanzamiento": "2011",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "SuperHeavy",
+             "Miracle Worker",
+             "Energy",
+             "Satyamev Jayate",
+             "I Can't Take It No More",
+             "Beautiful People",
+             "Rock Me Gently",
+             "One Day One Night",
+             "World Turning",
+             "Unstoppable"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Salsa",
-      "nombre": "Marc Anthony",
-      "oyentes": 34567890,
-      "debut": "13 de febrero de 1993",
-      "album": [
+       ]
+     },{
+       "categoría": "Rock",
+       "nombre": "Freddie Mercury",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Freddie_Mercury_%281977_Press_Kit_Photo%29.jpg/220px-Freddie_Mercury_%281977_Press_Kit_Photo%29.jpg",
+       "debut": "1973",
+       "album": [
          {
-            "nombre": "Otra Nota",
-            "fecha de lanzamiento": "13 de febrero de 1993",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Todo a Su Hora",
-               "Palabras del Alma",
-               "Me Voy a Acostar",
-               "Hasta Que Te Conocí",
-               "Sigo Siendo Yo",
-               "Mala",
-               "No Te Vayas",
-               "Ven Devórame Otra Vez",
-               "Yo Sabía",
-               "Rata de Dos Patas"
-            ]
+           "nombre": "Mr. Bad Guy",
+           "fecha de lanzamiento": "1985",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Let's Turn It On",
+             "Living on My Own",
+             "Love Kills",
+             "There Must Be More to Life Than This",
+             "Madly in Love",
+             "Radiate",
+             "Barcelona",
+             "I Was Born to Love You",
+             "Show Must Go On",
+             "Don't Try So Hard",
+             "Headlong",
+             "Man Made Paradise"
+           ]
          },
          {
-            "nombre": "Todo a Su Hora",
-            "fecha de lanzamiento": "24 de mayo de 1995",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Todo a Su Hora",
-               "Te Conozco Bien",
-               "Que Precio Tiene el Cielo",
-               "Amor Nuevo",
-               "Y Hubo Alguien",
-               "He Tratado",
-               "Nadie Como Ella",
-               "Dejalo Todo",
-               "Tú Me Haces Falta",
-               "Vivir Lo Nuestro"
-            ]
+           "nombre": "Barcelona",
+           "fecha de lanzamiento": "1988",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Barcelona",
+             "La Japonaise",
+             "The Golden Boy",
+             "How Can I Go On",
+             "Guiding Light",
+             "Overture Piccante",
+             "The Golden Boy",
+             "Barcelona (Single Version)",
+             "La Japonaise",
+             "How Can I Go On",
+             "The Golden Boy",
+             "Guiding Light"
+           ]
          },
          {
-            "nombre": "Contra La Corriente",
-            "fecha de lanzamiento": "11 de junio de 1997",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Vivir Lo Nuestro",
-               "Y Hubo Alguien",
-               "Te Conozco Bien",
-               "Nada Sin Ti",
-               "Si Te Vas",
-               "No Me Ames",
-               "Amor Nuevo",
-               "He Tratado",
-               "Todo a Su Hora"
-            ]
+           "nombre": "The Freddie Mercury Album",
+           "fecha de lanzamiento": "1992",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Living on My Own",
+             "Barcelona",
+             "Love Kills",
+             "There Must Be More to Life Than This",
+             "Madly in Love",
+             "Radiate",
+             "Show Must Go On",
+             "Don't Try So Hard",
+             "Headlong",
+             "Man Made Paradise"
+           ]
          },
          {
-            "nombre": "Marc Anthony",
-            "fecha de lanzamiento": "23 de septiembre de 1999",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "I Need to Know",
-               "You Sang to Me",
-               "Vivir Lo Nuestro",
-               "Let Me Take a Minute",
-               "Si Te Vas",
-               "He Tratado",
-               "Te Conozco Bien",
-               "Amor Nuevo",
-               "Nada Sin Ti"
-            ]
+           "nombre": "Messenger of the Gods: The Singles",
+           "fecha de lanzamiento": "2016",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Living on My Own",
+             "Barcelona",
+             "Love Kills",
+             "There Must Be More to Life Than This",
+             "Madly in Love",
+             "Radiate",
+             "Show Must Go On",
+             "Don't Try So Hard",
+             "Headlong",
+             "Man Made Paradise",
+             "How Can I Go On"
+           ]
          },
          {
-            "nombre": "Mended",
-            "fecha de lanzamiento": "6 de abril de 2002",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Ahora Quien",
-               "Y Como Es Él",
-               "Mended",
-               "Nunca Te Olvidaré",
-               "No Me Ames",
-               "Vivir Lo Nuestro",
-               "Todo a Su Hora",
-               "Si Te Vas",
-               "Amor Nuevo"
-            ]
+           "nombre": "Never Boring",
+           "fecha de lanzamiento": "2019",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Love Kills",
+             "There Must Be More to Life Than This",
+             "Barcelona",
+             "Madly in Love",
+             "Living on My Own",
+             "Guide Light",
+             "The Golden Boy",
+             "How Can I Go On",
+             "Overture Piccante",
+             "La Japonaise"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Salsa",
-      "nombre": "Celia Cruz",
-      "oyentes": 45678901,
-      "debut": "1950",
-      "album": [
+       ]
+     },{
+       "categoría": "Rock",
+       "nombre": "Jim Morrison",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Jim_Morrison_1969.JPG/220px-Jim_Morrison_1969.JPG",
+       "debut": "1967",
+       "album": [
          {
-            "nombre": "Celia Cruz y la Sonora Matancera",
-            "fecha de lanzamiento": "1957",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Bemba Colora",
-               "Burundanga",
-               "Que Le Den Candela",
-               "Sabor a Ti",
-               "El Cumbanchero",
-               "Rumberos de Ayer",
-               "El Yerbero",
-               "Juancito Alimaña",
-               "La Vida Es un Carnaval",
-               "Cumbia en Do Menor"
-            ]
+           "nombre": "An American Prayer",
+           "fecha de lanzamiento": "1978",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "An American Prayer",
+             "Save the Last Dance for Me",
+             "Ghost Song",
+             "The WASP (Texas Radio and the Big Beat)",
+             "Break on Through (To the Other Side)",
+             "Moonlight Drive",
+             "You Make Me Real",
+             "Crawling King Snake",
+             "The End",
+             "The Soft Parade"
+           ]
          },
          {
-            "nombre": "Celia Cruz con la Sonora Matancera",
-            "fecha de lanzamiento": "1965",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Casi Te Envidio",
-               "Que Le Den Candela",
-               "La Vida Es un Carnaval",
-               "Sabor a Ti",
-               "El Cumbanchero",
-               "Rumberos de Ayer",
-               "Burundanga",
-               "El Yerbero",
-               "Cumbia en Do Menor",
-               "Juancito Alimaña"
-            ]
+           "nombre": "Other Voices",
+           "fecha de lanzamiento": "1971",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "In the Eye of the Sun",
+             "Variety is the Spice of Life",
+             "Ships with Sails",
+             "Tightrope Ride",
+             "Down on the Farm",
+             "I'm Horny, I'm Stoned",
+             "Wilderness",
+             "Hang on to Your Life"
+           ]
          },
          {
-            "nombre": "Celia Cruz en la Habana",
-            "fecha de lanzamiento": "1971",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Bemba Colora",
-               "La Vida Es un Carnaval",
-               "Sabor a Ti",
-               "Rumberos de Ayer",
-               "El Cumbanchero",
-               "El Yerbero",
-               "Burundanga",
-               "Cumbia en Do Menor",
-               "Que Le Den Candela",
-               "Juancito Alimaña"
-            ]
+           "nombre": "Full Circle",
+           "fecha de lanzamiento": "1972",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Get Up and Dance",
+             "Roadhouse Blues",
+             "The Piano Bird",
+             "The Piano Song",
+             "The Sailor's Tale",
+             "The Weeping Song",
+             "The Soft Parade",
+             "The End"
+           ]
          },
          {
-            "nombre": "Tremendo Caché",
-            "fecha de lanzamiento": "1987",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Caché",
-               "La Vida Es un Carnaval",
-               "Burundanga",
-               "Bemba Colora",
-               "Sabor a Ti",
-               "El Cumbanchero",
-               "Rumberos de Ayer",
-               "Juancito Alimaña",
-               "El Yerbero",
-               "Cumbia en Do Menor"
-            ]
+           "nombre": "The Doors",
+           "fecha de lanzamiento": "1967",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Break on Through (To the Other Side)",
+             "Soul Kitchen",
+             "The Crystal Ship",
+             "Twentieth Century Fox",
+             "Alabama Song (Whisky Bar)",
+             "Light My Fire",
+             "Back Door Man",
+             "I Looked at You",
+             "End of the Night",
+             "Take It As It Comes",
+             "The End"
+           ]
          },
          {
-            "nombre": "Salsa y Control",
-            "fecha de lanzamiento": "1992",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Salsa y Control",
-               "Rumberos de Ayer",
-               "La Vida Es un Carnaval",
-               "El Cumbanchero",
-               "Sabor a Ti",
-               "Burundanga",
-               "Cumbia en Do Menor",
-               "Juancito Alimaña",
-               "El Yerbero",
-               "Que Le Den Candela"
-            ]
+           "nombre": "L.A. Woman",
+           "fecha de lanzamiento": "1971",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "The Changeling",
+             "Love Her Madly",
+             "Been Down So Long",
+             "Cars Hiss by My Window",
+             "L.A. Woman",
+             "Hyacinth House",
+             "Crawling King Snake",
+             "The WASP (Texas Radio and the Big Beat)",
+             "Riders on the Storm"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Salsa",
-      "nombre": "Ray Barretto",
-      "oyentes": 1234567,
-      "debut": "1962",
-      "album": [
+       ]
+     },{
+       "categoría": "Rock",
+       "nombre": "Kurt Cobain",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Nirvana_around_1992_%28cropped%29.jpg/220px-Nirvana_around_1992_%28cropped%29.jpg",
+       "debut": "1989",
+       "album": [
          {
-            "nombre": "El Ray Barretto",
-            "fecha de lanzamiento": "1962",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Calle Luna Calle Sol",
-               "El Watusi",
-               "Soul Drummers",
-               "Mi Guaguanco",
-               "Pachanga Para Ti",
-               "Que Bueno Baila Usted",
-               "El Cumbanchero",
-               "El Rumbero del Piano",
-               "Pana Pana",
-               "El Titán"
-            ]
+           "nombre": "Bleach",
+           "fecha de lanzamiento": "1989",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Blew",
+             "Floyd the Barber",
+             "About a Girl",
+             "School",
+             "Love Buzz",
+             "Paper Cuts",
+             "Swap Meet",
+             "Mr. Moustache",
+             "Sifting",
+             "Tagum",
+             "Downer",
+             "Big Cheese",
+             "Negative Creep",
+             "Been a Son",
+             "D-7",
+             "Turnaround"
+           ]
          },
          {
-            "nombre": "Acid",
-            "fecha de lanzamiento": "1968",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Acid",
-               "El Rumbero del Piano",
-               "Calle Luna Calle Sol",
-               "El Watusi",
-               "Pachanga Para Ti",
-               "Mi Guaguanco",
-               "Que Bueno Baila Usted",
-               "El Titán",
-               "Pana Pana",
-               "Soul Drummers"
-            ]
+           "nombre": "Nevermind",
+           "fecha de lanzamiento": "1991",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Smells Like Teen Spirit",
+             "In Bloom",
+             "Come as You Are",
+             "Breed",
+             "Lithium",
+             "Polly",
+             "Territorial Pissings",
+             "Drain You",
+             "Lounge Act",
+             "Stay Away",
+             "On a Plain",
+             "Something in the Way"
+           ]
          },
          {
-            "nombre": "Barretto",
-            "fecha de lanzamiento": "1971",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Barretto",
-               "El Cumbanchero",
-               "Mi Guaguanco",
-               "Que Bueno Baila Usted",
-               "Calle Luna Calle Sol",
-               "Pachanga Para Ti",
-               "El Watusi",
-               "El Titán",
-               "Pana Pana",
-               "Soul Drummers"
-            ]
+           "nombre": "In Utero",
+           "fecha de lanzamiento": "1993",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Serve the Servants",
+             "Scentless Apprentice",
+             "Heart-Shaped Box",
+             "Rape Me",
+             "Frances Farmer Will Have Her Revenge on Seattle",
+             "Dumb",
+             "Very Ape",
+             "Milk It",
+             "Pennyroyal Tea",
+             "Radio Friendly Unit Shifter",
+             "Tourette's",
+             "All Apologies"
+           ]
          },
          {
-            "nombre": "Street Parade",
-            "fecha de lanzamiento": "1977",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Street Parade",
-               "Que Bueno Baila Usted",
-               "El Cumbanchero",
-               "Calle Luna Calle Sol",
-               "Pachanga Para Ti",
-               "Mi Guaguanco",
-               "El Rumbero del Piano",
-               "Pana Pana",
-               "El Titán",
-               "Soul Drummers"
-            ]
+           "nombre": "MTV Unplugged in New York",
+           "fecha de lanzamiento": "1994",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "About a Girl",
+             "Come as You Are",
+             "Jesus Doesn't Want Me for a Sunbeam",
+             "The Man Who Sold the World",
+             "Pennyroyal Tea",
+             "Dumb",
+             "Polly",
+             "On a Plain",
+             "Something in the Way",
+             "Plateau",
+             "Oh Me",
+             "Lake of Fire",
+             "All Apologies",
+             "Where Did You Sleep Last Night"
+           ]
          },
          {
-            "nombre": "Indestructible",
-            "fecha de lanzamiento": "1979",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Indestructible",
-               "El Cumbanchero",
-               "Que Bueno Baila Usted",
-               "Calle Luna Calle Sol",
-               "Pachanga Para Ti",
-               "Mi Guaguanco",
-               "El Rumbero del Piano",
-               "Pana Pana",
-               "El Titán",
-               "Soul Drummers"
-            ]
+           "nombre": "With the Lights Out",
+           "fecha de lanzamiento": "2004",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Smells Like Teen Spirit",
+             "Drain You",
+             "Aneurysm",
+             "School",
+             "Sliver",
+             "About a Girl",
+             "Come as You Are",
+             "Lithium",
+             "In Bloom",
+             "Heart-Shaped Box",
+             "Rape Me",
+             "Dumb",
+             "Pennyroyal Tea",
+             "All Apologies",
+             "Where Did You Sleep Last Night"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Salsa",
-      "nombre": "Jerry Rivera",
-      "oyentes": 67890123,
-      "debut": "1989",
-      "album": [
+       ]
+     },{
+       "categoría": "Trap Peruano",
+       "nombre": "Gonzalo Genek",
+       "oyentes": 20000000,
+       "imagen": "https://i1.sndcdn.com/avatars-000235489143-0jrttw-t1080x1080.jpg",
+       "debut": "2018",
+       "album": [
          {
-            "nombre": "Jerry Rivera",
-            "fecha de lanzamiento": "1989",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "Casi Te Envidio",
-               "Mi Libreta",
-               "Te Conozco Bien",
-               "Que Manera de Quererte",
-               "Héroe de Amor",
-               "Dile Que Vuelvas",
-               "Lluvia",
-               "La Rumba Soy Yo"
-            ]
+           "nombre": "Genek",
+           "fecha de lanzamiento": "2018",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Intro",
+             "Genek",
+             "Karma",
+             "No Me Digas",
+             "La Vida Que Llevo",
+             "Solo",
+             "Todo Va a Cambiar",
+             "Dime",
+             "Poco a Poco",
+             "Final"
+           ]
          },
          {
-            "nombre": "Combinación Perfecta",
-            "fecha de lanzamiento": "1992",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Combinación Perfecta",
-               "Nada de Nada",
-               "Que Hay de Malo",
-               "Mi Libreta",
-               "Que Manera de Quererte",
-               "Te Conozco Bien",
-               "Héroe de Amor",
-               "Dile Que Vuelvas",
-               "Lluvia",
-               "La Rumba Soy Yo"
-            ]
+           "nombre": "No Hay Vuelta Atrás",
+           "fecha de lanzamiento": "2019",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "No Hay Vuelta Atrás",
+             "Que Se Vaya",
+             "Es Lo Mío",
+             "Se Perdió",
+             "Por Ti",
+             "Mañana",
+             "Aún Te Extraño",
+             "Como Antes",
+             "Difícil",
+             "Afrontar"
+           ]
          },
          {
-            "nombre": "Cara de Niño",
-            "fecha de lanzamiento": "1994",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Cara de Niño",
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "Casi Te Envidio",
-               "Mi Libreta",
-               "Te Conozco Bien",
-               "Que Manera de Quererte",
-               "Héroe de Amor",
-               "Dile Que Vuelvas",
-               "La Rumba Soy Yo"
-            ]
+           "nombre": "Sin Límites",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Sin Límites",
+             "Mira",
+             "Nunca Más",
+             "Noche Sin Fin",
+             "En Mi Mundo",
+             "Frío",
+             "No Hay Tiempo",
+             "Solo Para Ti",
+             "Se Acabó",
+             "Final del Juego"
+           ]
          },
          {
-            "nombre": "Siete Poderes",
-            "fecha de lanzamiento": "1996",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Siete Poderes",
-               "Que Manera de Quererte",
-               "Mi Libreta",
-               "Te Conozco Bien",
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "Casi Te Envidio",
-               "Héroe de Amor",
-               "Dile Que Vuelvas",
-               "La Rumba Soy Yo"
-            ]
+           "nombre": "Reflejos",
+           "fecha de lanzamiento": "2021",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Reflejos",
+             "Casi Olvidado",
+             "Vuelve",
+             "Mentiras",
+             "Por Fin",
+             "Futuro",
+             "Recuerdos",
+             "Despertar",
+             "Ya No",
+             "Hasta El Final"
+           ]
          },
          {
-            "nombre": "Entre El Bebop y La Salsa",
-            "fecha de lanzamiento": "1998",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Entre El Bebop y La Salsa",
-               "Te Conozco Bien",
-               "Que Manera de Quererte",
-               "Mi Libreta",
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "Casi Te Envidio",
-               "Héroe de Amor",
-               "Dile Que Vuelvas",
-               "La Rumba Soy Yo"
-            ]
+           "nombre": "Cicatrices",
+           "fecha de lanzamiento": "2022",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Cicatrices",
+             "Perdido",
+             "Solo Tú",
+             "Días de Lluvia",
+             "Eres Tú",
+             "Espejos",
+             "Nada es Igual",
+             "Temporada",
+             "Lo Que Quiero",
+             "Final del Camino"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Salsa",
-      "nombre": "Frankie Ruiz",
-      "oyentes": 98765432,
-      "debut": "1981",
-      "album": [
+       ]
+     },{
+       "categoría": "Trap Peruano",
+       "nombre": "Gabriel Drago",
+       "oyentes": 20000000,
+       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP36TbESuKqcxOC1fvnikcwdx_vBFLKFGaIA&s",
+       "debut": "2019",
+       "album": [
          {
-            "nombre": "Kilo",
-            "fecha de lanzamiento": "1981",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Kilo",
-               "Casi Te Envidio",
-               "Que Manera de Quererte",
-               "Mi Libreta",
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "El Titán",
-               "Pana Pana",
-               "El Cumbanchero",
-               "La Rumba Soy Yo"
-            ]
+           "nombre": "Trap en la Casa",
+           "fecha de lanzamiento": "2019",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Intro",
+             "Trap en la Casa",
+             "Sube",
+             "Dame Más",
+             "Es Mi Momento",
+             "Vuelves",
+             "No Es Fácil",
+             "Solo Yo",
+             "Mi Lugar",
+             "Final"
+           ]
          },
          {
-            "nombre": "Solista",
-            "fecha de lanzamiento": "1985",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Solista",
-               "Que Manera de Quererte",
-               "Mi Libreta",
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "El Titán",
-               "Pana Pana",
-               "El Cumbanchero",
-               "La Rumba Soy Yo",
-               "Casi Te Envidio"
-            ]
+           "nombre": "Entre Sombras",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Entre Sombras",
+             "Noche de Lluvia",
+             "No Me Digas",
+             "Cielo Gris",
+             "A Solas",
+             "Recuerdos",
+             "Dulce Veneno",
+             "Hacia Arriba",
+             "Desaparecer",
+             "Final del Día"
+           ]
          },
          {
-            "nombre": "Brillante",
-            "fecha de lanzamiento": "1986",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Brillante",
-               "Que Manera de Quererte",
-               "Mi Libreta",
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "El Titán",
-               "Pana Pana",
-               "El Cumbanchero",
-               "La Rumba Soy Yo",
-               "Casi Te Envidio"
-            ]
+           "nombre": "Enfrentando el Reloj",
+           "fecha de lanzamiento": "2021",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Enfrentando el Reloj",
+             "Tiempo Perdido",
+             "Amanecer",
+             "En Mi Cabeza",
+             "Aun Te Extraño",
+             "No Mires Atrás",
+             "Fuego",
+             "Caminos",
+             "Solo para Ti",
+             "Luz al Final"
+           ]
          },
          {
-            "nombre": "Revolución",
-            "fecha de lanzamiento": "1988",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Revolución",
-               "Que Manera de Quererte",
-               "Mi Libreta",
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "El Titán",
-               "Pana Pana",
-               "El Cumbanchero",
-               "La Rumba Soy Yo",
-               "Casi Te Envidio"
-            ]
+           "nombre": "Sin Fronteras",
+           "fecha de lanzamiento": "2022",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Sin Fronteras",
+             "En el Abismo",
+             "Nada Es Igual",
+             "Héroe",
+             "Mi Mundo",
+             "Volver a Empezar",
+             "Mi Sueño",
+             "Perdidos",
+             "Fuera de Control",
+             "Final del Viaje"
+           ]
          },
          {
-            "nombre": "Voy a Pintar",
-            "fecha de lanzamiento": "1991",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Voy a Pintar",
-               "Que Manera de Quererte",
-               "Mi Libreta",
-               "Amores Extraños",
-               "Que Hay de Malo",
-               "El Titán",
-               "Pana Pana",
-               "El Cumbanchero",
-               "La Rumba Soy Yo",
-               "Casi Te Envidio"
-            ]
+           "nombre": "Eclipse",
+           "fecha de lanzamiento": "2023",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Eclipse",
+             "Noche Sin Fin",
+             "Volver",
+             "En la Oscuridad",
+             "Eres Tú",
+             "Despertar",
+             "Eclipse Total",
+             "Caminos Cruzados",
+             "Luna de Sangre",
+             "Final del Tiempo"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Pop",
-      "nombre": "Ariana Grande",
-      "oyentes": 245678900,
-      "debut": "2013",
-      "album": [
+       ]
+     },{
+       "categoría": "Trap Peruano",
+       "nombre": "Guerreros del Bajo",
+       "oyentes": 20000000,
+       "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJSqtpMO1qsAei4Zasa1MEyjaOPqAMgmy7Ng&s",
+       "debut": "2017",
+       "album": [
          {
-            "nombre": "My Everything",
-            "fecha de lanzamiento": "2014",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Intro",
-               "Problem (feat. Iggy Azalea)",
-               "One Last Time",
-               "Why Try",
-               "Break Your Heart Right Back (feat. Childish Gambino)",
-               "Best Mistake (feat. Big Sean)",
-               "Be My Baby (feat. Cashmere Cat)",
-               "Break Your Heart Right Back",
-               "Just a Little Bit of Your Heart",
-               "Love Me Harder (with The Weeknd)",
-               "A Little Bit of Your Heart",
-               "You Don't Know Me"
-            ]
+           "nombre": "Guerreros del Bajo",
+           "fecha de lanzamiento": "2017",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Intro",
+             "Guerreros del Bajo",
+             "El Juego",
+             "Por La Noche",
+             "Todo o Nada",
+             "Sin Control",
+             "Fuego",
+             "Desafío",
+             "Más Allá",
+             "Final"
+           ]
          },
          {
-            "nombre": "Dangerous Woman",
-            "fecha de lanzamiento": "2016",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Moonlight",
-               "Dangerous Woman",
-               "Be Alright",
-               "Into You",
-               "Side to Side (feat. Nicki Minaj)",
-               "Let Me Love You (feat. Lil Wayne)",
-               "Greedy",
-               "Leave Me Lonely (feat. Macy Gray)",
-               "Everyday (feat. Future)",
-               "Sometimes",
-               "I Don't Care",
-               "Dangerous Woman"
-            ]
+           "nombre": "Rebeldía",
+           "fecha de lanzamiento": "2018",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Rebeldía",
+             "Lucha en la Calle",
+             "No Me Detengo",
+             "Sigo Fuerte",
+             "Rostro de Hierro",
+             "Sin Ley",
+             "El Poder",
+             "Guerra Interna",
+             "Sueños",
+             "Más Allá del Miedo"
+           ]
          },
          {
-            "nombre": "Sweetener",
-            "fecha de lanzamiento": "2018",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Raindrops (An Angel Cried)",
-               "Blazed (feat. Pharrell Williams)",
-               "The Light Is Coming (feat. Nicki Minaj)",
-               "R.E.M.",
-               "Sweetener",
-               "Successful",
-               "Everytime",
-               "Breathin",
-               "Goodnight n Go",
-               "Pete Davidson",
-               "Get Well Soon"
-            ]
+           "nombre": "En la Cima",
+           "fecha de lanzamiento": "2019",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "En la Cima",
+             "Ascenso",
+             "Mirada Fuerte",
+             "En Pie de Guerra",
+             "Sin Fronteras",
+             "No Hay Retorno",
+             "Enemigos",
+             "Luchando",
+             "Victoria",
+             "Última Batalla"
+           ]
          },
          {
-            "nombre": "Thank U, Next",
-            "fecha de lanzamiento": "2019",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Imagine",
-               "Needy",
-               "NASA",
-               "Bloodline",
-               "Bad Idea",
-               "Make Up",
-               "Ghostin'",
-               "In My Head",
-               "7 Rings",
-               "Thank U, Next",
-               "Break Up with Your Girlfriend, I'm Bored"
-            ]
+           "nombre": "Bajo y Fuerza",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Bajo y Fuerza",
+             "Explosión",
+             "Voces del Barrio",
+             "Sombra",
+             "El Último Round",
+             "Corazón de Guerrero",
+             "Renacer",
+             "Rugido",
+             "No Te Rindas",
+             "Final del Camino"
+           ]
          },
          {
-            "nombre": "Positions",
-            "fecha de lanzamiento": "2020",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Shut Up",
-               "34+35",
-               "Motive (feat. Doja Cat)",
-               "Just Like Magic",
-               "Off the Table (feat. The Weeknd)",
-               "Safety Net (feat. Ty Dolla Sign)",
-               "Hell No",
-               "Wild Side",
-               "Love Language",
-               "Bad to You",
-               "Why Try",
-               "Motive"
-            ]
+           "nombre": "Creciendo",
+           "fecha de lanzamiento": "2021",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Creciendo",
+             "Evolución",
+             "Más Allá del Suelo",
+             "Creciendo",
+             "Resistencia",
+             "Renovación",
+             "Ecos del Barrio",
+             "Por Siempre",
+             "El Nuevo Orden",
+             "Final de la Era"
+           ]
          }
-      ]
-   },
-   {
-      "categoría": "Pop",
-      "nombre": "Lady Gaga",
-      "oyentes": 123456789,
-      "debut": "2008",
-      "album": [
+       ]
+     },{
+       "categoría": "Trap Peruano",
+       "nombre": "Thuglack",
+       "oyentes": 20000000,
+       "imagen": "https://images.genius.com/7d972a392fcb47745aed99fc274f8789.508x508x1.jpg",
+       "debut": "2018",
+       "album": [
          {
-            "nombre": "The Fame",
-            "fecha de lanzamiento": "2008",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Just Dance",
-               "Lovegame",
-               "Paparazzi",
-               "Poker Face",
-               "Beautiful, Dirty, Rich",
-               "The Fame",
-               "Money Honey",
-               "Starstruck",
-               "Boys Boys Boys",
-               "Paper Gangsta",
-               "Brown Eyes",
-               "I Like It Rough",
-               "Summerboy"
-            ]
+           "nombre": "Trap 4 Life",
+           "fecha de lanzamiento": "2018",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Intro",
+             "Trap 4 Life",
+             "Luchador",
+             "No Me Rindo",
+             "En la Calle",
+             "Noche de Fiestas",
+             "Perdido",
+             "Fuego",
+             "Sin Compasión",
+             "Final"
+           ]
          },
          {
-            "nombre": "The Fame Monster",
-            "fecha de lanzamiento": "2009",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Bad Romance",
-               "Alejandro",
-               "Monster",
-               "Speechless",
-               "Dance in the Dark",
-               "Telephone",
-               "So Happy I Could Die",
-               "Teeth"
-            ]
+           "nombre": "Sin Ley",
+           "fecha de lanzamiento": "2019",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Sin Ley",
+             "Fuera de Control",
+             "Real",
+             "Dinero y Poder",
+             "La Vida es Mía",
+             "No Hay Retorno",
+             "Despertar",
+             "Enemigos",
+             "Sobreviviente",
+             "Último Round"
+           ]
          },
          {
-            "nombre": "Born This Way",
-            "fecha de lanzamiento": "2011",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Marry the Night",
-               "Born This Way",
-               "Government Hooker",
-               "Judas",
-               "Americano",
-               "Hair",
-               "Scheiße",
-               "Bloody Mary",
-               "Bad Kids",
-               "Fashion of His Love",
-               "Highway Unicorn (Road to Love)",
-               "Heavy Metal Lover",
-               "The Edge of Glory"
-            ]
+           "nombre": "Revolución",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Revolución",
+             "Nuevo Orden",
+             "Fuerza",
+             "Rostro de Guerra",
+             "Camino al Éxito",
+             "En la Cima",
+             "Sin Fronteras",
+             "Guerra",
+             "Unidos",
+             "Final del Juego"
+           ]
          },
          {
-            "nombre": "ARTPOP",
-            "fecha de lanzamiento": "2013",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Aura",
-               "Venus",
-               "G.U.Y.",
-               "Sexxx Dreams",
-               "Jewels N' Drugs",
-               "Manicure",
-               "Do What U Want",
-               "Mary Jane Holland",
-               "Dope",
-               "Fashion!",
-               "Swine",
-               "Donatella",
-               "Fashion! (Extended Version)",
-               "Applause"
-            ]
+           "nombre": "En la Oscuridad",
+           "fecha de lanzamiento": "2021",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "En la Oscuridad",
+             "Noche Sin Fin",
+             "Héroe",
+             "Entre Sombras",
+             "Caminos Perdidos",
+             "Solo Yo",
+             "Desafío",
+             "Ecos",
+             "Amanecer",
+             "Final de la Batalla"
+           ]
          },
          {
-            "nombre": "Chromatica",
-            "fecha de lanzamiento": "2020",
-            "imagen": "",
-            "link": "",
-            "canciones": [
-               "Chromatica I",
-               "Alice",
-               "Stupid Love",
-               "Rain on Me",
-               "Free Woman",
-               "Fun Tonight",
-               "Back to Basics",
-               "911",
-               "Sour Candy",
-               "Enigma",
-               "Replay",
-               "Plastic Doll",
-               "Sine from Above",
-               "1000 Doves",
-               "Babylon"
-            ]
+           "nombre": "Renacer",
+           "fecha de lanzamiento": "2022",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Renacer",
+             "Nuevo Comienzo",
+             "Rostro de Hierro",
+             "A Solas",
+             "Sin Miedo",
+             "El Nuevo Ritmo",
+             "Más Allá",
+             "Perdido en la Noche",
+             "El Último Paso",
+             "Final"
+           ]
          }
-      ]
-   },{
-      "categoría": "Pop",
-      "nombre": "Olivia Rodrigo",
-      "oyentes": 567890123,  
-      "debut": "2021",
-      "album": [
-        {
-          "nombre": "SOUR",
-          "fecha de lanzamiento": "2021",
-          "imagen": "",
-          "link": "",
-          "canciones": [
-            "brutal",
-            "traitor",
-            "drivers license",
-            "1 step forward, 3 steps back",
-            "deja vu",
-            "good 4 u",
-            "enough for you",
-            "happier",
-            "jealousy, jealousy",
-            "favorite crime",
-            "hope ur ok"
-          ]
-        },
-        {
-          "nombre": "SOUR (Deluxe)",
-          "fecha de lanzamiento": "2022",
-          "imagen": "",
-          "link": "",
-          "canciones": [
-            "brutal",
-            "traitor",
-            "drivers license",
-            "1 step forward, 3 steps back",
-            "deja vu",
-            "good 4 u",
-            "enough for you",
-            "happier",
-            "jealousy, jealousy",
-            "favorite crime",
-            "hope ur ok",
-            "u just got lucky",
-            "out of the blue",
-            "the best day ever"
-          ]
-        },
-        {
-          "nombre": "Live from the Halls of the Campus",
-          "fecha de lanzamiento": "2022",
-          "imagen": "",
-          "link": "",
-          "canciones": [
-            "drivers license",
-            "deja vu",
-            "good 4 u",
-            "happier",
-            "jealousy, jealousy",
-            "traitor",
-            "brutal",
-            "enough for you",
-            "favorite crime",
-            "hope ur ok"
-          ]
-        },
-        {
-          "nombre": "SOUR (Acoustic)",
-          "fecha de lanzamiento": "2023",
-          "imagen": "",
-          "link": "",
-          "canciones": [
-            "brutal (Acoustic)",
-            "traitor (Acoustic)",
-            "drivers license (Acoustic)",
-            "1 step forward, 3 steps back (Acoustic)",
-            "deja vu (Acoustic)",
-            "good 4 u (Acoustic)",
-            "enough for you (Acoustic)",
-            "happier (Acoustic)",
-            "jealousy, jealousy (Acoustic)",
-            "favorite crime (Acoustic)",
-            "hope ur ok (Acoustic)"
-          ]
-        },
-        {
-          "nombre": "SOUR (Extended)",
-          "fecha de lanzamiento": "2024",
-          "imagen": "",
-          "link": "",
-          "canciones": [
-            "brutal",
-            "traitor",
-            "drivers license",
-            "1 step forward, 3 steps back",
-            "deja vu",
-            "good 4 u",
-            "enough for you",
-            "happier",
-            "jealousy, jealousy",
-            "favorite crime",
-            "hope ur ok",
-            "bonus track 1",
-            "bonus track 2",
-            "bonus track 3"
-          ]
-        }
-      ]
-    }
-    
-    
-
-
-]
+       ]
+     },{
+       "categoría": "Trap Peruano",
+       "nombre": "MNZR",
+       "oyentes": 20000000,
+       "imagen": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPEBAQEBAPDxAPDw8QDw8VDQ8PDw8PFRUWFxYVFRUYHSggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OFxAQFS0lHx8tLS4tLS4tLS0tLi0tLS0tLS0tKy0tKy0tLTAtLy0tLS0tLS0tLS0tKy0tLS0rLS0tLf/AABEIAOAA4QMBIgACEQEDEQH/xAAbAAACAwEBAQAAAAAAAAAAAAAAAQIDBAUGB//EADgQAAEEAAQEBAMHAwQDAAAAAAEAAgMRBBIhMQVBUWETInGBBjKRI0JSscHR8BSh4WJygvEzkqL/xAAZAQADAQEBAAAAAAAAAAAAAAAAAQIDBAX/xAAmEQEBAAICAgIBBAMBAAAAAAAAAQIRAyESMQRBYTJRgaETFCIF/9oADAMBAAIRAxEAPwD4yhSAQQtUIpJoSASTQgyQmhAJCYBJAAJJNAAWSegC1Miaw+bzPB+UUWtI6nZx7DT12U3o5NslIVsziXEnmbKrzJbVcSSpOuZSBTSSFJCCRQpIpBooTIQgIoTSQYSTQkCQmkgyQmhAJCEIDWAouCmokLVkgkpJJGSE0kgEIQg26FvhRh/35g4RnmyIEtc4d3OBb6Nd1VDf+l3fiGERuwrshMcnD8I+GzVNyeYEj5jnzWdN9lzW4oDZjQscsrv07OPjmpuskjDoKNuNDTdaWYNrRb9+euib8aTs0A9btV4YtdI0Snyu0u6DSdie11aW7SuOMpTyNdTQNNAOQHoFkyUSDy0XRmjizjwi4hvzEkakHSv4VlxQOrspobmtFUv0yzxZkJNdaatkEITQCQhCAVJKSVIMkJ0kkCQmkgyQmkgBCSEBuIUVY4KsrVlESFEqZUSg0UJpJAkJpJB77FzRYjgOFc4sE2FdJhw93zeSTOI26aExyM50cp6LxDXWvR8Jgy4HERTucG4l0M0cY+aMxE/aG9GlwfVVqNeQXnHM1OXblZ1WeWOnTx8ls1+wJUHaKxlVZK2cLwYlcC4WOQ6dz3S6k3Rbc744+1nBcJZt1mgHZep5Bdct8SMtc0DKC2shujvZvXnolHD4bhWysnxFCgPm3PK9j70ubO3K7j0PjzHjlmf1L/LyWIwhjPVp2VS9BiIg7dcnFQAf7tbb+q6Mc9vMzw16ZE0EVodELRmSE0AXtr7WgyQh2mh0QgBKk0JGihSSKAiUkykUFSQhCA6JUCplQK2ZIpFNCRoFIplIpGS7/DOEMjibi8W5scbw44aMm3zUaz5NywHTue2/ASpAdjE8TY85B4jYiS57hrI93U2dfqsMzxLTYo5A7zHKDnGRrS5zr3JoEnTQBURROecrQXHoF6H4c4ZPFiYJS0BrJB4gN/8Ajd5X/wDy5yWtq8vq3p5fUdaXp/h1wDDzOn0T4rh2Nc5jmgyMc6Ow0WXNJGv0KtwjsoAoD02XJyZ7x9Pc4Pgf4+S3yl00S6m1kxL1qkkXAx+K84AO12o45ax+VrHt07th9x/ZYMTka0SPPmcCctA2eWnRROLysq9ddOYbz9yaH1XJlkLyXO3P0A6BaY4Xbnz5MZjOt2wSzEnb9SkHE7BRQFu4g/MN7H9lEOI2JHvSnI337pMiJQBGNVcgNACKTBJ0nSEGSSkgoCshRKm5RKRVFCaSYdIqDgpkqJK2YoEJKRUUjIqJCmolSECkpFRKSn0H4UwsbMO05QZH+Zx568l1RKwXm0s0DyXk/hSeVwysryGtTQF7FdPFGZhIcGnMbGWz6rWOfKduy6OOQPjc4sZK5viPa1rpRV/LehJBI1Xl8TwXEMa6ctJgbJ4Wd00RkBNlmZjXXqBuBWhXXwjnSk2RHbqzu2ZGPmefQAn2Xlj8TU7GBrA+PEiNrMzQ5zWxl2R2p0dTib6lY83HLPy9D4Xy8+K+N/Sr4jixGKBty42V7gXgE671p9U4ojLI1jSSZHhgPqa2XtePwMjw5DGBpGVsbR+MmrA2v9io4+PUp/I57yZ/h4iQ15b2Nu7u/wAbKCZjI0II9uXVdTBcGMzGPa9pt1SMunNFja9C6jsi2T2WOOWd1I5KKXS4rwh8Bv5oyRTxyu6Duh0K55RLsssLjdWLIiCKO429EZS3UKpoFi9Bep6BbpIomGvEvTtp6pwtbitosaKxkV6JBmXUHM08xrXdXt01VyMyOGVb8PS3CQEKuUgqrINuaWpFaJm0QQqJBqVGj2gVEqRUUiJJNCA2lIoJUVqzCEISAUSmSkgiKgVNRKSo7XwrMWyPAOpYCG3WYg/sV7CHDukaCdC7Xa9F4HhrjmAbGXuuwRyX1bhTzJG2xrlHTQ12WmN6Zcnt4n4qx/gtmwzXFsjjC1/LNC5rnOHpYYPcrxhXovjt5OMeDVsjjZ+Z176rgQMBJzGgGlx6mtgPU0Flle23HNySO38F4USYnM7aJpd/yOg/Veg4lM18vm0ihD5JCDWVoFad9Wgd3LD8G1HhsRLRFuDSb0JANUO1n/27KfD4DiMSMO5zWxaYjGvItrGx27I/q1vlBA3JITl1js/G5Zajg8VnkrztLXShriC0iowPIxt/dAP19E+FcW8IZJG54ruhQe066g+/rtrou9xrEDFSPe4EsHkiadS2Nujdfxcz3JXn8Xwot1Z5hvl+8P3XPcpl1Xo/63JxSZYvWcflhHDXlr2PM7omtcD88gcHONcqa38r1XgCpE8tdCdO/okwWQOqMMPCXtn8jmvNlOtdaJJasW0tysqgAHdzfNZSrjHkx8bpKKUsNj6cit+EnD7B0I5cqXOA/nJb48BLHUhHl1za6gXXuNtQrlYr6TcVWHIzKwhIduyrm2tTkKplPLolSVpEKSRUGihFoQGlCVpWtEmlaVoSLQQlaLQWgrIcvMEm+tLocH4I/EhzrytaaGlklWycHML6zB3INrU30VSUtz06/wALzV5QxjG62+tSelndex4XjSXtja0Znua1ugFlxyj+64fBOGO8MNqi0Bx9SVdgOEwYhuKxBkGGkjjmLJHSm/Ew7wGtDbG9XQ1VXqMteVeB+KpQ/G4ojUf1EjQbsHKctj1IJ91zmA5CboZgD3rX9Qq9/ddDgmBdiZooBtJK1lbVmIBPpoNVhXbxTvT18FYXh0TiNcpmqt5Xn7O/QAE/7CucBHBC2MTRmaYRy4n7QE24Zo4xWhABs/6j2F7ePTiaRkBaBBAwYmYXZb8xEZPXK9ja7u6LxWLmMj3PO7nElPObmj4eTwy8tPTA/wCFJeXhxD2fK4jten0W/D8XcNHtBHUaH6LDwenj83G63018QwTXgu2dW45+oWLg2Etxedm6DuVdjMexzQGHVxo6VQ7rbCA0NY3YKd2Y6b44cfJ8jzx+v7rBx5mrHdQWn21/UrkL0PGo7iv8Lgfrp+q88Vpx+nB/6GOua/kl0cDj6Z4Th5acGu/DmvccxZvsuchaOFvadVNxVMZ0B7BTcVZE8qglSeVFTRSKiVJyikQSQhAXWhJK1ZHaLSQgC1OKIuNNBJOwolQXd+GuJNheHFrSW9wCW89+9FOTZXqPafB3BHiAteKyuJHI2Rv/AHXRg4fBE435n3rZu/crNB8Wxlji3yk7BpDxftsudLxfMSd3X6FayOa7r10TgBoPy0+i+e/Hr2YVsUMBLTiJJ8VP5i4kvBiB12BBkFdl6TD8XibEXuc5oaLc47NA3ql8y+IOKuxk75joNGxt/DE35R67k9yVnn004sbtzgaXa+FDlldK4EshifI/ceXavewuIvV/C3CxK0NeXNZK8vxJG7cFAwySnTrmY0dwFnHTJfpPieCcyKNp8kssf9TMTqXeKSY2u6AR5DXIvcvLSROafMKvY8j6Fek45xHxJHyOIaZpHOI3DQTo0dgKHsqgGSNrRzVl5dbd/wDgmdmEvcn9vPJK/FYcsPVpPlPX/Kzqp25OTG45av0Tt12uG49p0cDYHzcrXFAsga+wvRdJkUbWuIeaFA9b7d1OcldPxMs8bcsfX2247Gxljm3ZcCAAuDfZaxNGAaYS7kXEEWsrkYzRfI5LyWW2fwSSaFbjrXB8oUiownyj0UyrJS4KKm9QQROUVJygpAQhCDWIQhUkISQgzSQhAa+HSkO30rQd16Phzg52tbbc7Xkmmlsw2Lc02N/0WmGWkZY7fSOGYdmIfDAWNc2WQMewi2kEi76Chv2XzT4gZC3FYhuHIMLZntjIFNLQfu6ny3danSl6DhXGpMOJZ2O8whlawFpOV7xkvfTR5rvS8cp5L2OOalTjYXODQLLiAB1JNAL6C1ow+ElyuOaRzMI02LfBGXyTPHZ03l9IwF5Tg2FLD47m25uT+maaAfO4jJ6gDzH0HVdLjeIawZWHM2KKOJhGznNYM7gP9T87v+Sxy/b93b8ee8r6nbgcRnzSGthoEsFK5ppu5Oo5Usy3YMBgzuvXbQnRGXocO8uTyt1+W/EuGUR6EuoLJNwwCi12nMfpag/FsLmOAILXAm+iUnETZIaADytRJddOrPk4cst8nbZC+GPy6NzCz+IdisOOma4gNNtFnatVlu0tE5jPbDP5GXjcJ6puUU7UVcc1oQhWYdluA9z7JoaWsoAdAhXFqreFYUvKipOCRSJEqCk5RUmEIQgJ2hRRaojtFpJJbCVp2oIRsJFTZJSrRSNh1MLiXNw2JoCniNhca0sk0L5mh9FyYo8xomhRJ9AtU0tQtj5uke86/dpoAr1afopYGAgAlmZ0jmsiBsNo3br23yj69E73RE8XigHR+GT9kxmpNgybursLyj0taXQT4gxNZGQZSQwOIbmoWXC/ugc1ThIYjORYcyICiBYlc2tddwTmPpQUZsbNHOZfEcZa1cTZpw27CjyS1PdaeeXj4z1Unuiw5DcrJpBYkcbLGG6LWDmdNz7Kt2PLpWvf52toBmzcg2Fclie7MSepJ+qSnZ6OR+YkndxJNbaqOyRCVoTtLZCAUrSOhCEw01fIc00hjSTQW+CMM9TuViw58w9/yW21eJNBAVLwpsdYUHlWTO4qBU3KBUUIlRKkVApGEIQkAmopoI0kIQApAKIUwmFkTFJzQFWwpuNqiQmFuPRoAP8APUrWcRQe4m301kY2bGCKNDs3T1cDyWZoGYk6jM7T8Qben5KpziSSdybPqotaSHG6j7GuVFJzySSdSUkkjpoSStBbNIoQAgqQKlaVJFAaMNCHbn25q3HOAa1o05+wWIFN7yd9U9hZhfmHutoCy4Nup7BbQ1ViSewVTirHBVTGlZKnKolSeVVaigFRTSUmEIQgBCEIIIQhBhO0kICTSrWakD+UqR/NyVrhw58KSY5gxtxh2XR0pHyjXob/AO09kpwcrQ4l+xa4dgT/AAq3EYT7zNW71dmlhV2HxTmdx0/ZRZW+GWOtZT+VaCuh4ccurTldzHO/RZpsK5m4sdRqlKrPhyk3O4zoTTVMdIpgoQgBCEIIJIJTAtAbMIKbfU37LWxZga07Ul4hWkuibKCxzu3S8YqpxSuQ0iSoqVKJCkEhCRQAhCEAIQhACEIQAhCEANcQbGhCLOl7D+FNrqDhQOYVZFkag2Oh0r0JSQEy4Kuk0IBWQdD7rbh+IkaPF9xusT21R6jT2NKKmxrx8mWH6a67oIpdWkA9R+oWSbAvbrWYdRv9Flaa207rbBxJw0cMw67H/KnVje8nHnP+pq/hjQupLh2SjM069Rz9QudNC5hpwrvyKrbnz47igkhCaCVkI19FWFdHoPVOEsJStK0JmRSKCUrSBpJJWkAUkITIIQhAJCEJAJpIQDQkhANCSaYCAEIQGiUfZx+rvzKyLaR9mzoM2vIEuOhVD4rs9Bf7p5QRUE0ghQpOGVzDbTR/sfULpQYpsoyv0PTkfRcpJGlY53FsxOErVuo6cx+6yFaYMaR82vfmFdLE2TVu/VMZavcYAtAVfhlp1UsycZmSoEpkqJQZpJISM0kIQVCEIQQQhCA//9k=",
+       "debut": "2019",
+       "album": [
+         {
+           "nombre": "MNZR",
+           "fecha de lanzamiento": "2019",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Intro",
+             "MNZR",
+             "En la Mira",
+             "Fuego",
+             "No Hay Retorno",
+             "Solo Tú",
+             "Perdido",
+             "La Calle Habla",
+             "Dinero y Poder",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Sin Miedo",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Sin Miedo",
+             "Entre las Sombras",
+             "Guerra Interna",
+             "Desafío",
+             "Solo para Ti",
+             "Nada Es Igual",
+             "Fuerza",
+             "Caminos",
+             "El Juego",
+             "Final del Día"
+           ]
+         },
+         {
+           "nombre": "Nocturno",
+           "fecha de lanzamiento": "2021",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Nocturno",
+             "Noche de Fiestas",
+             "Ecos del Barrio",
+             "Cielo Gris",
+             "A Solas",
+             "Dulce Veneno",
+             "Rostro de Guerra",
+             "Renacer",
+             "El Último Paso",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Reflejo",
+           "fecha de lanzamiento": "2022",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Reflejo",
+             "En la Oscuridad",
+             "Vuelve",
+             "Fuerza",
+             "Despertar",
+             "Rostro de Hierro",
+             "Sin Control",
+             "Héroe",
+             "Caminos Perdidos",
+             "Final del Viaje"
+           ]
+         },
+         {
+           "nombre": "Evolución",
+           "fecha de lanzamiento": "2023",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Evolución",
+             "Ascenso",
+             "El Nuevo Ritmo",
+             "Más Allá",
+             "Sin Fronteras",
+             "Perdido",
+             "La Nueva Era",
+             "Desafío",
+             "Victoria",
+             "Final del Camino"
+           ]
+         }
+       ]
+     },{
+       "categoría": "Boleros",
+       "nombre": "José José",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Jos%C3%A9_Jos%C3%A9.png/220px-Jos%C3%A9_Jos%C3%A9.png",
+       "debut": "1969",
+       "album": [
+         {
+           "nombre": "El Triste",
+           "fecha de lanzamiento": "1970",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El Triste",
+             "Lágrimas",
+             "Gavilán o Paloma",
+             "Todo lo Que Tengo",
+             "Mi Vida",
+             "No Creo en los Hombres",
+             "La Cama Vacía",
+             "Ya Lo Supérame",
+             "Amar y Vivir",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "20 Super Éxitos",
+           "fecha de lanzamiento": "1975",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El Triste",
+             "Gavilán o Paloma",
+             "Todo lo Que Tengo",
+             "Mi Vida",
+             "No Creo en los Hombres",
+             "La Cama Vacía",
+             "Lágrimas",
+             "Ya Lo Supérame",
+             "Amar y Vivir",
+             "La Sombra de Mi Amor"
+           ]
+         },
+         {
+           "nombre": "40 y 20",
+           "fecha de lanzamiento": "1982",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "40 y 20",
+             "Lo Pasado, Pasado",
+             "El Triste",
+             "Gavilán o Paloma",
+             "Amor Eterno",
+             "La Cama Vacía",
+             "Lo Que No Fue No Será",
+             "Mi Vida",
+             "La Sombra de Mi Amor",
+             "Ya Lo Supérame"
+           ]
+         },
+         {
+           "nombre": "Secretos",
+           "fecha de lanzamiento": "1983",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El Triste",
+             "Lo Pasado, Pasado",
+             "Amor Eterno",
+             "Gavilán o Paloma",
+             "40 y 20",
+             "Mi Vida",
+             "La Cama Vacía",
+             "Lo Que No Fue No Será",
+             "Amar y Vivir",
+             "La Sombra de Mi Amor"
+           ]
+         },
+         {
+           "nombre": "Romántico",
+           "fecha de lanzamiento": "1990",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El Triste",
+             "Amor Eterno",
+             "Gavilán o Paloma",
+             "40 y 20",
+             "Mi Vida",
+             "La Cama Vacía",
+             "Lo Pasado, Pasado",
+             "Ya Lo Supérame",
+             "La Sombra de Mi Amor",
+             "Amar y Vivir"
+           ]
+         }
+       ]
+     },{
+       "categoría": "Boleros",
+       "nombre": "Julio Jaramillo",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Julio_jaramillo_laurido2_%28cropped%29.jpg/220px-Julio_jaramillo_laurido2_%28cropped%29.jpg",
+       "debut": "1956",
+       "album": [
+         {
+           "nombre": "Amor Eterno",
+           "fecha de lanzamiento": "1962",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Amor Eterno",
+             "El Alma en los Labios",
+             "Odiame",
+             "La Novia",
+             "Te Pido Perdón",
+             "Nuestro Juramento",
+             "Vuelve",
+             "Cenizas",
+             "Pobre de Ti",
+             "La Cama Vacía"
+           ]
+         },
+         {
+           "nombre": "Canta Julio Jaramillo",
+           "fecha de lanzamiento": "1964",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "El Alma en los Labios",
+             "Nuestro Juramento",
+             "Te Pido Perdón",
+             "Cenizas",
+             "Vuelve",
+             "Amor Eterno",
+             "Odiame",
+             "La Novia",
+             "La Cama Vacía",
+             "Pobre de Ti"
+           ]
+         },
+         {
+           "nombre": "Éxitos de Julio Jaramillo",
+           "fecha de lanzamiento": "1966",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Nuestro Juramento",
+             "Odiame",
+             "El Alma en los Labios",
+             "Te Pido Perdón",
+             "Amor Eterno",
+             "Vuelve",
+             "Cenizas",
+             "La Novia",
+             "La Cama Vacía",
+             "Pobre de Ti"
+           ]
+         },
+         {
+           "nombre": "El Rey del Bolero",
+           "fecha de lanzamiento": "1970",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Nuestro Juramento",
+             "Odiame",
+             "El Alma en los Labios",
+             "Cenizas",
+             "Amor Eterno",
+             "Te Pido Perdón",
+             "Vuelve",
+             "La Novia",
+             "La Cama Vacía",
+             "Pobre de Ti"
+           ]
+         },
+         {
+           "nombre": "Julio Jaramillo y sus Éxitos",
+           "fecha de lanzamiento": "1980",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Amor Eterno",
+             "Nuestro Juramento",
+             "Odiame",
+             "Cenizas",
+             "El Alma en los Labios",
+             "Te Pido Perdón",
+             "Vuelve",
+             "La Novia",
+             "La Cama Vacía",
+             "Pobre de Ti"
+           ]
+         }
+       ]
+     },{
+       "categoría": "Boleros",
+       "nombre": "Julio Iglesias",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Julio_Iglesias09.jpg/220px-Julio_Iglesias09.jpg",
+       "debut": "1969",
+       "album": [
+         {
+           "nombre": "Guitarras de España",
+           "fecha de lanzamiento": "1969",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Guitarras de España",
+             "La Vida Sigue Igual",
+             "La Chica de la Lentejuelas",
+             "El Amor",
+             "Me Olvidé de Vivir",
+             "Vivir",
+             "Cuando Te Vaya Bien",
+             "No Sé Qué Hacer",
+             "Amor",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "De Niño a Hombre",
+           "fecha de lanzamiento": "1977",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Un Canto a Galicia",
+             "Aimer la Vie",
+             "La Vida Sigue Igual",
+             "El Amor",
+             "No Sé Qué Hacer",
+             "Vivir",
+             "Cuando Te Vaya Bien",
+             "Me Olvidé de Vivir",
+             "Lo Mejor de Ti",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Soy",
+           "fecha de lanzamiento": "1980",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Soy",
+             "Amor",
+             "A Mi Manera",
+             "Un Año de Amor",
+             "Me Olvidé de Vivir",
+             "Cuando Te Vaya Bien",
+             "El Amor",
+             "Vivir",
+             "No Sé Qué Hacer",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Emociones",
+           "fecha de lanzamiento": "1984",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Soy",
+             "De Niña a Mujer",
+             "La Chica de la Lentejuelas",
+             "Amor",
+             "El Amor",
+             "Un Año de Amor",
+             "Vivir",
+             "Cuando Te Vaya Bien",
+             "Me Olvidé de Vivir",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "25 Años",
+           "fecha de lanzamiento": "1994",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "A Mi Manera",
+             "Me Olvidé de Vivir",
+             "La Vida Sigue Igual",
+             "Un Año de Amor",
+             "Soy",
+             "Amor",
+             "De Niña a Mujer",
+             "El Amor",
+             "Vivir",
+             "Final"
+           ]
+         }
+       ]
+     },{
+       "categoría": "Boleros",
+       "nombre": "Darvin",
+       "oyentes": 20000000,
+       "imagen": "https://akamai.sscdn.co/uploadfile/letras/fotos/f/4/5/5/f455c65878a5b89587e64a49e1404a4d.jpg",
+       "debut": "2015",
+       "album": [
+         {
+           "nombre": "Un Amor para Siempre",
+           "fecha de lanzamiento": "2015",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Un Amor para Siempre",
+             "Dulce Amor",
+             "El Último Suspiro",
+             "Te Extraño",
+             "Cien Años",
+             "Amor Infinito",
+             "Nunca Te Olvidaré",
+             "Volverás",
+             "Eterno",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Sentimientos",
+           "fecha de lanzamiento": "2017",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Sentimientos",
+             "Caminos de Amor",
+             "Vuelve a Mí",
+             "Lágrimas",
+             "Eres Tú",
+             "Cenizas",
+             "Te Amo",
+             "Amor Perdido",
+             "Por Siempre",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Recuerdos de Amor",
+           "fecha de lanzamiento": "2019",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Recuerdos de Amor",
+             "No Puedo Olvidar",
+             "Nuestro Recuerdo",
+             "Aquel Tiempo",
+             "Volver a Amar",
+             "Ecos del Pasado",
+             "Sin Ti",
+             "De Nuevo Juntos",
+             "Eterno Amor",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Latido del Corazón",
+           "fecha de lanzamiento": "2020",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Latido del Corazón",
+             "Amor Eterno",
+             "Nunca Te Olvidaré",
+             "Susurros",
+             "Te Necesito",
+             "Por Ti",
+             "Volver a Empezar",
+             "Amor de Ayer",
+             "Entre Sombras",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Siempre Contigo",
+           "fecha de lanzamiento": "2022",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Siempre Contigo",
+             "Por Siempre",
+             "Eres Mi Mundo",
+             "Amor Infinito",
+             "Te Amo",
+             "Caminos del Alma",
+             "Dejame Amarte",
+             "Nunca Más",
+             "Cielo de Amor",
+             "Final"
+           ]
+         }
+       ]
+     },{
+       "categoría": "Boleros",
+       "nombre": "Los Panchos",
+       "oyentes": 20000000,
+       "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Los_Panchos_Auditorio_Nacional_2012.jpg/250px-Los_Panchos_Auditorio_Nacional_2012.jpg",
+       "debut": "1944",
+       "album": [
+         {
+           "nombre": "Los Panchos con el Trío Los Panchos",
+           "fecha de lanzamiento": "1958",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Solamente Tú",
+             "La Bamba",
+             "Sabor a Mí",
+             "Besame Mucho",
+             "La Cama Vacía",
+             "Perdóname",
+             "Que Bonita Es Esta Vida",
+             "Todo Es Amor",
+             "Cien Años",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Los Panchos en el Corazón",
+           "fecha de lanzamiento": "1961",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "En Mi Corazón",
+             "Sabor a Mí",
+             "Amor Eterno",
+             "Noche de Ronda",
+             "La Novia",
+             "La Vida Sigue Igual",
+             "El Alma en los Labios",
+             "Que Bonita Es Esta Vida",
+             "Aquel Amor",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Los Panchos y Sus Éxitos",
+           "fecha de lanzamiento": "1964",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Sabor a Mí",
+             "La Bamba",
+             "Solamente Tú",
+             "Besame Mucho",
+             "Cien Años",
+             "Que Bonita Es Esta Vida",
+             "Perdóname",
+             "Todo Es Amor",
+             "Amor Eterno",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Lo Mejor de Los Panchos",
+           "fecha de lanzamiento": "1970",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Sabor a Mí",
+             "La Novia",
+             "Noche de Ronda",
+             "El Alma en los Labios",
+             "Cien Años",
+             "Que Bonita Es Esta Vida",
+             "Solamente Tú",
+             "Amor Eterno",
+             "Besame Mucho",
+             "Final"
+           ]
+         },
+         {
+           "nombre": "Los Panchos en Vivo",
+           "fecha de lanzamiento": "1975",
+           "imagen": "",
+           "link": "",
+           "canciones": [
+             "Sabor a Mí",
+             "Cien Años",
+             "La Cama Vacía",
+             "Que Bonita Es Esta Vida",
+             "Besame Mucho",
+             "Amor Eterno",
+             "El Alma en los Labios",
+             "Solamente Tú",
+             "Todo Es Amor",
+             "Final"
+           ]
+         }
+       ]
+     }
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+ 
+ 
+ ]
+ 
+ 
+ 

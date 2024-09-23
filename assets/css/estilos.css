@@ -1,0 +1,228 @@
+
+.letra{
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400; 
+  font-style: normal; 
+  font-variation-settings:"MORF" 15, "SHLN" 50;
+    
+}
+
+
+
+.p {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight:80%;
+  font-style: normal;
+  
+}
+
+
+
+.mini {
+    font-family: "Matemasie", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.casasa{
+
+    font-size: 4px;
+    width: 90%;
+    margin-left: 80px;
+    margin-top: 10%;
+
+}
+.casasa2{
+    margin-left: 10px;
+
+    width: 50%;
+    margin-top: 10%;
+    height: 245px;
+}
+
+
+
+
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    outline: none; 
+    border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: 2s linear;
+}
+html{
+    font-size: 62-5%;
+    scroll-behavior: smooth;
+    scroll-padding-top: 6rem;
+    overflow-x: hidden;
+}
+
+section{
+    padding: 2rem 9%;
+}
+header{
+    background-image:url(../multimedia/arriba.jpg);
+    position: fixed;
+   top: 0; left: 0; right: 0;
+   /*background:#c28c97 ;*/
+     padding: 1rem 2%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 1000;
+   box-shadow: 0 .5rem 1rem black;
+}
+header .logo{
+    font-size: 3rem;
+    color: #0a0000;
+    font-weight: bolder;
+}
+header .logo span{
+    color:#7f4ca5;
+}
+header .nav a{
+    font-size: 2rem;
+    padding: 0 1.5rem;
+    color: #ab49cc;
+}
+header .nav a:hover{
+    color: #000000;
+}
+
+header .icons a{
+    font-size: 2.5rem;
+    color: black;
+    margin-left: 1.5rem;
+}
+
+header .icons a:hover{
+    color:var(--pink);
+}
+
+header #toggler{
+    display: none;
+}
+header .fa-bars{
+    font-size: 3rem;
+    color: #f17e65;
+    border-radius: 5rem;
+    padding:.5rem 1.5rem;
+    cursor: pointer;
+    border:.1rem solid rgb(221, 218, 228) ;
+}
+
+
+
+.fondo{
+    display: flex;
+    align-items: center;
+    min-height: 100vb;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+
+.a1{
+    width: 900%;
+    margin-top: -150px;
+    
+}
+
+
+
+.caja{
+    
+width: auto;
+    
+}
+.frase{
+    
+   color: #362031;
+  margin-top: 0%;
+    padding-bottom: 0%;
+
+}
+
+.imagengat{
+    width: 50%;
+}
+
+.imagengat img {
+    
+    width: 450px;
+    
+}
+
+.premio{
+    margin-top: 10%;
+    padding-bottom: 0%;
+}
+.es{
+    background-color: #994992;
+}
+
+
+
+
+
+
+
+
+@media (max-widt:991px){
+
+    html{
+        font-size: 55%;
+    }
+
+    header{
+        padding:2rem ;
+    }
+}
+
+@media (max-width:768px){
+
+    header .fa-bars{
+        display: block;
+    }
+
+    header .nav{
+        position: absolute;
+        top:100%; left:0; right:0;
+        background: #eee;
+        border-top: .1rem solid rgb(0, 0, 0);
+        clip-path: polygon(0 0 ,100% 0, 100% 0, 0 0);
+    }
+
+    header .navbar a{
+        margin:1.5rem;
+        padding:1.5em;
+        display: block;
+        border: 1rem solid maroon;
+        display: block;
+
+    }
+}
+
+@media (max-width:768px){
+
+    header .fa-bars{
+        display: block;
+    }
+
+    header .nav{
+        position: absolute;
+    }
+}
